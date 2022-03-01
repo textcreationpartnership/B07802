@@ -1,0 +1,748 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A piece of the world, painted in proper colours. Presented to the illusterous [sic] Majesty of our most gracious Queene Mary. / By Francis Lenton gent. Her Majesties poet..</title>
+            <author>Lenton, Francis, fl. 1630-1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 82 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07802</idno>
+            <idno type="STC">STC 15464.5</idno>
+            <idno type="STC">ESTC S126745</idno>
+            <idno type="EEBO-CITATION">68222135</idno>
+            <idno type="OCLC">ocm 68222135</idno>
+            <idno type="VID">183716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2189:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A piece of the world, painted in proper colours. Presented to the illusterous [sic] Majesty of our most gracious Queene Mary. / By Francis Lenton gent. Her Majesties poet..</title>
+                  <author>Lenton, Francis, fl. 1630-1640.</author>
+                  <author>Raworth, John, d. 1645, printer.</author>
+               </titleStmt>
+               <extent>[163] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Raworth,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1640..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]-G¹² H³; extra leaf at beginning.</note>
+                  <note>Dedication to Queen Mary - p. [13].</note>
+                  <note>Dedication to Francis Lenton from John Coyse - p. [7]-[9].</note>
+                  <note>Imperfect: cropped, torn, tightly bound, and stained.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Characters and characteristics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183716:1"/>
+            <pb facs="tcp:183716:1"/>
+            <p>A PIECE OF THE WORLD, Painted in proper <hi>Colours.</hi>
+            </p>
+            <p>Preſented to the Illuſte<g ref="char:EOLhyphen"/>rous Majeſty of our moſt gracious Queene <hi>Mary.</hi>
+            </p>
+            <p>By FRANCIS LENTON gent Her Majeſties Poet.</p>
+            <q xml:lang="lat">
+               <hi>Dum vivio video,</hi> &amp; <hi>Dum video rideo.</hi>
+            </q>
+            <p>LONDON, Printed by <hi>John Raworth</hi> 1640.</p>
+            <pb facs="tcp:183716:2" rendition="simple:additions"/>
+            <pb facs="tcp:183716:2" rendition="simple:additions"/>
+            <pb facs="tcp:183716:3"/>
+            <pb facs="tcp:183716:3" rendition="simple:additions"/>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:183716:4"/>
+            <pb facs="tcp:183716:4"/>
+            <head>To his moſt lov'd friend <hi>Mr.</hi> FRANCIS LENTON.</head>
+            <lg>
+               <l>IF love, not Learning</l>
+               <l>May my lines prefer,</l>
+               <l>To front, not grace</l>
+               <l>thy well writ Character;</l>
+               <l>Or if a willing minde</l>
+               <l>May plead th' excuſe</l>
+               <l>Of my unable,</l>
+               <l>More unworthy Muſe;</l>
+               <l>Then take me with thee <hi>Frank;</hi>
+               </l>
+               <l>I meane as well</l>
+               <l>As he, whoſe lines</l>
+               <l>but few can parallell.</l>
+               <pb facs="tcp:183716:5"/>
+               <l>And tho my approbation</l>
+               <l>Cannot adde</l>
+               <l>Leaſt luſtre to thy booke,</l>
+               <l>Or mak't be had</l>
+               <l>In more eſteeme:</l>
+               <l>Or free it from the mew</l>
+               <l>of Simon Simple,</l>
+               <l>Or the ſenſeleſſe Crew:</l>
+               <l>Who finding more</l>
+               <l>New Characters, will aske,</l>
+               <l>What's he dares undertake</l>
+               <l>So blunt a taske?</l>
+               <l>Then Maſter Criticke</l>
+               <l>Comes, and ſeemes to ſnarle,</l>
+               <l>Saying this worke</l>
+               <l>Onely becomes an <hi>Earle,</hi>
+               </l>
+               <l>Yet this I know,</l>
+               <l>Thine are ſo witty, merry,</l>
+               <l>As Would have bin</l>
+               <l>Allow'd by <hi>Overberry,</hi>
+               </l>
+               <pb facs="tcp:183716:5"/>
+               <l>Had he e're ſeene' em:</l>
+               <l>Boldly then goe on,</l>
+               <l>Well to enlarge, what</l>
+               <l>Thou haſt well begun.</l>
+               <l>For in deſpight of</l>
+               <l>Black-mouth'd Calumny</l>
+               <l>Thy lines ſhall live</l>
+               <l>Vnto poſterity:</l>
+               <l>And after-times may</l>
+               <l>With delightfull pleaſures</l>
+               <l>Find ſportive mirth</l>
+               <l>In reading <hi>Lentons</hi> leiſures.</l>
+            </lg>
+            <closer>
+               <signed>Thine ever, JOHN COYSE.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:183716:6"/>
+            <head>The Contents.</head>
+            <list>
+               <item>A State Politician. <hi>1</hi>
+               </item>
+               <item>A gallant Courtier. <hi>2</hi>
+               </item>
+               <item>A young Barriſter. <hi>3</hi>
+               </item>
+               <item>A Commiſſary. <hi>4</hi>
+               </item>
+               <item>A Paraſite or Flatterer. <hi>5</hi>
+               </item>
+               <item>An Vnorious man. <hi>6.</hi>
+               </item>
+               <item>A Countrey Widdow: <hi>7</hi>
+               </item>
+               <item>A Chambermaid. <hi>8</hi>
+               </item>
+               <item>A Broken Citizen. <hi>9</hi>
+               </item>
+               <item>A Bawd. <hi>10</hi>
+               </item>
+               <item>A Pander. <hi>11</hi>
+               </item>
+               <item>A Darling, <hi>12</hi>
+               </item>
+               <item>A Lawyers Clarke. <hi>13</hi>
+               </item>
+               <pb facs="tcp:183716:6"/>
+               <item>A Farmer Tenant. <hi>14</hi>
+               </item>
+               <item>A Double benefic't Parſon. <hi>15</hi>
+               </item>
+               <item>A Schoole-maſter. <hi>16</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Countrey Alewife, <hi>17</hi>
+               </item>
+               <item>An Aldermans daughter. <hi>18</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Prodigall. <hi>19</hi>
+               </item>
+               <item>An Vuſurer. <hi>20</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Broker. <hi>21</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Bragadotio. <hi>22</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Sempſter. <hi>23</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Proſtitute or Whore. <hi>24</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Gameſter. <hi>25</hi>
+               </item>
+               <item>An Hoſt. <hi>26</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Common Drunkard. <hi>27</hi>
+               </item>
+               <item>An Elder Brother. <hi>28</hi>
+               </item>
+               <item>An Innes a Court Gentleman. <hi>29</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Low Country Souldier. <hi>30</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Gentleman Vſher. <hi>31</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Cuckold. <hi>32</hi>
+               </item>
+               <pb facs="tcp:183716:7"/>
+               <item>An Informer. <hi>33</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Bachelour. <hi>34</hi>
+               </item>
+               <item>An Vnderſheriffe. <hi>35</hi>
+               </item>
+               <item>
+                  <hi>A</hi> Drawer. <hi>36</hi>
+               </item>
+               <item>
+                  <hi>A</hi> good Husband. <hi>37</hi>
+               </item>
+               <item>
+                  <hi>A</hi> conſtant man. <hi>38</hi>
+               </item>
+               <item>A jealous man. <hi>39</hi>
+               </item>
+               <item>A deſparate man. <hi>40</hi>
+               </item>
+               <item>A True friend. <hi>41</hi>
+               </item>
+            </list>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183716:7"/>
+            <head>TO The Illuſtrious Majeſty OF <hi>Great Brittaines Monarcheſſe,</hi> Our moſt Gratious Queen, <hi>MARIE.</hi>
+            </head>
+            <opener>
+               <salute>MADAM.</salute>
+            </opener>
+            <lg>
+               <l>MInerva now hath lent a Birth,</l>
+               <l>In waggiſh Proſe to give your Grace ſome Mirth,</l>
+               <l>In which both Iuvenall and Martiall,</l>
+               <l>Meet, and doe mixe their honey with their gall;</l>
+               <l>Here I adventured to cut a Sluce</l>
+               <l>Into the Times enormious abuſe,</l>
+               <l>I point at no Man ſingle, but Truth knowes</l>
+               <l>That horſe is gall'd that winches as he goes:</l>
+               <l>Laugh then (bleſt Lady) and amongſt the reſt,</l>
+               <l>Protect this Pamphlet peeping out in jeſt.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Your Graces ſervant,</hi> Fran: Lenton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:183716:8" rendition="simple:additions"/>
+            <pb facs="tcp:183716:8" rendition="simple:additions"/>
+            <head>Characters.</head>
+            <div n="1" type="character">
+               <head>1. A State Polititian,</head>
+               <p>
+                  <seg rend="decorInit">I</seg>S a great man deepely read in the myſte<g ref="char:EOLhyphen"/>ries of iniqui<g ref="char:EOLhyphen"/>ty; who being well grounded in the Theoricke, aſſumes
+<pb facs="tcp:183716:9"/>the Practique is an Effect of the Cauſe: One, whoſe much ſtudy hath cald him to more Care than Conſcience, that whatſoever by Power and Project he atchieves and ac<g ref="char:EOLhyphen"/>cumulates to himſelfe; his pretence is ſtill for the good of the Common-weale: For the ſafety wherof he watch<g ref="char:EOLhyphen"/>eth as a Foxe for his prey. Forraigne eſtates are as fa<g ref="char:EOLhyphen"/>milier with him as his owne, for the knowledge whereof, he ſpends much, and gets more. The vulgar honour him more for fear than love, and either bark, or are ſilent, as his diſtance is from them. Their popular applauſe hee
+<pb facs="tcp:183716:9"/>eſteemes not, but laughes at their Envy in his higher Spheare, ſoaring above their Capacities by the ſides of Princes, and ſeriouſly con<g ref="char:EOLhyphen"/>templating how to car<g ref="char:EOLhyphen"/>ry himſelfe in the next Charge, being never trou<g ref="char:EOLhyphen"/>bled with any alteration, ha<g ref="char:EOLhyphen"/>ving his ſeverall Poſtures for all; for his Gravity, his lookes, and his language are neere allide, this auſtere, that ſevere; for his Habit, hee is all over furr'd, but ſeldome or never foxt, except at a Coronation. In a word, he climes up with much coſt, ſtaggers there with many cares, and commonly falls
+<pb facs="tcp:183716:10"/>with more feares, And thoſe that never durſt libell him, living, dare cowardly throw one of <hi>Iuvenals</hi> ſtones at his Grave.</p>
+            </div>
+            <div n="2" type="character">
+               <head>
+                  <hi>2.</hi> A Gallant Courtier.</head>
+               <p>IS the out ſide of a States<g ref="char:EOLhyphen"/>man, a little more gayly trimd up, and as he is repleat with internall endowments, ſo this is compleat with ex<g ref="char:EOLhyphen"/>ternall Complement. He is a man ſo covetous, that hee cannot deny you any thing, and ſo careleſſe after his grant, that he will performe
+<pb facs="tcp:183716:10"/>nothing. One whom your Taylor is much bound to for his new faſhion (which is his p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime ſtudy) and he recipro<g ref="char:EOLhyphen"/>cally for his Taylors faith, (which never goes without works (both which concurre together till the day of ac<g ref="char:EOLhyphen"/>count, and then he is deferr'd till doomes day, or elſe pre<g ref="char:EOLhyphen"/>ſently paid with Priviledge. He hath more devices upon a new Doublet, than <hi>Ovid</hi> had verſes, and thoſe as Geo<g ref="char:EOLhyphen"/>metricall, as his naturall: He ſpares for no coſt whileſt he may be credited; and when that failes, he fals upon ſome full-mouth'd Lady, whoſe marke hath beene long out;
+<pb facs="tcp:183716:11"/>where he ſtil prays but ſeld, or never praies for ought but her death. He is compoſed only of two Elements, Ayre and Fire, Levity and Choler, having the predominance, wanting water and earth, hu<g ref="char:EOLhyphen"/>midity and ſolidity, and holds nothing more ignoble than the defect of formality, His Barber and his beard do hold a faire and even Corre<g ref="char:EOLhyphen"/>ſpondency, and agree aſwell as his head with its Perriwig, of which, how carefull he is, the doffing his Beaver will diſcover, even from <hi>Ludgate Hill</hi> (if he dares come ſo nye it) to <hi>Chairing Croſſe,</hi> his more ſecure walke. His Congees
+<pb facs="tcp:183716:11"/>are ſo common, that few care for them, and his bodye's moſt lowly, when his mind's moſt lofty: <hi>Cupid</hi> is his key, <hi>Venus</hi> his devotion, and <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> his meſſenger, whilſt he cornutes lame <hi>Vulcan:</hi> You may ſmell him before you ſee him, and ſee him long e<g ref="char:EOLhyphen"/>nough before you know him. Hee is oftentimes his owne admirer, and thinkes himſelfe the onely object of others, whilſt they thinke him their abject. In briefe, his tongue and his heart are moſt commonly as great ſtrangers, as his hands and his actions, or his large pro<g ref="char:EOLhyphen"/>miſes &amp; lame performances.</p>
+            </div>
+            <div n="3" type="character">
+               <pb facs="tcp:183716:12"/>
+               <head>
+                  <hi>3.</hi> A young Barreſter.</head>
+               <p>IS one call'd too't by Rea<g ref="char:EOLhyphen"/>ding, though he never read for't, and hath tane his leave of <hi>Littleton</hi> before he was wel acquainted with him. At his firſt entrance he hath a very good Conſcience, and there<g ref="char:EOLhyphen"/>fore loves the Chancery bet<g ref="char:EOLhyphen"/>ter than the Common-Law, aſwell for the effect of the one, as the defect of the o<g ref="char:EOLhyphen"/>ther; where he lives by per<g ref="char:EOLhyphen"/>petuall motion (as not yet ripened, for thoſe more harſh and ambiguous Demurres,
+<pb facs="tcp:183716:12"/>and arguments) and ſubſiſts by the ſame, till by ſtrata<g ref="char:EOLhyphen"/>gem in Law, he hath ſurpri<g ref="char:EOLhyphen"/>ſed ſome Aldermans daugh<g ref="char:EOLhyphen"/>ter, by putting the Caſe rightly, who through the greenneſſe of her youth and face, is horne mad for a man of his profeſſion. His very calling writes him Eſquire, though his Scutchion ſome<g ref="char:EOLhyphen"/>times ca<g ref="char:cmbAbbrStroke">̄</g>not ſpeak him Gen<g ref="char:EOLhyphen"/>tleman, except by way of ad<g ref="char:EOLhyphen"/>mittance. He is very open<g ref="char:EOLhyphen"/>handed till his fee hath clutcht it, and then he's open mouth'd, and will be ſure to ſpeak more than to th'pur<g ref="char:EOLhyphen"/>poſe, whileſt his ſilly Client rejoyceth as much in the
+<pb facs="tcp:183716:13"/>very tone of his tongue, as the ſubſtance of his talke, be<g ref="char:EOLhyphen"/>ing both coequall to his capacity. His Clients are his Soule, and when they faile, he expires, onely here's the difference, hee provides not for his ſoule, but his ſoul for him. He'll ſpeake more in a moment, than do in a month, and warrant your Cauſe ac<g ref="char:EOLhyphen"/>cording to his reading; till your hearings prove his ho<g ref="char:EOLhyphen"/>ly-dayes, and your Trials his experience. His ambition is to climbe to the ſeat of Ju<g ref="char:EOLhyphen"/>ſtice, but is loth to be blinde in the place, leſt he ſhould not ſee thoſe pictures his ſoule takes pleaſure in, but in
+<pb facs="tcp:183716:13"/>the meane time, hee is ſtri<g ref="char:EOLhyphen"/>ving to be put in Commiſſi<g ref="char:EOLhyphen"/>on, where perhaps you may ſee him the next Quarter Seſſions.</p>
+            </div>
+            <div n="4" type="character">
+               <head>
+                  <hi>4.</hi> A Commiſſary,</head>
+               <p>IS a man much given to li<g ref="char:EOLhyphen"/>bels, or rather libels to him, and (which is much) is priviledg'd to receive them, and proves a gainer by the hand. Hee trades much in Will and Inventory (the Re<g ref="char:EOLhyphen"/>licks of the dead) which he files with much felicity, and however the Executour
+<pb facs="tcp:183716:14"/>ſpeeds, hee is ſtill of the ta<g ref="char:EOLhyphen"/>king hand: He lookes not ſo much to the performance of the Will, as the payment of his Fees, and Viſits the wife of the next Vicarage. He hath many foule caſes laid open before him, and he as ſoundly canvaſſes them; by the which he acquires a faire purſe, and a foule Conſci<g ref="char:EOLhyphen"/>ence Barſterdy and Bawdery are his chiefe rents, and in<g ref="char:EOLhyphen"/>continency and whoredome his Farmers; and (which is ſtrange) he lives by that, for which all men die, (Sinne.) Hee hath many Viſitations, which he beares very pati<g ref="char:EOLhyphen"/>ently, in regard of the ſweet
+<pb facs="tcp:183716:14"/>Cordials accrewing therby. He is your haſty youths, and and yonger Scollers Oracle, who daily worſhip him for his ſpeedy licence, that they may both preſently enter in<g ref="char:EOLhyphen"/>to their Pulpets, and he into their purſes. He is one that ſhall excommunicate you, <hi>ipſo facto,</hi> for five ſhillings, and abſolve you immediate<g ref="char:EOLhyphen"/>ly, <hi>ex officio,</hi> for three ſhil<g ref="char:EOLhyphen"/>lings foure pence. In briefe, He is the Biſhops mouth, the Bawds eare, the Sinners ab<g ref="char:EOLhyphen"/>ſolution, the Whores purga<g ref="char:EOLhyphen"/>tory, the Dioceſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Mou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<g ref="char:EOLhyphen"/>banke, the Church wardens terror the Parſonages friend, and the Parſons ſupervi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or,
+<pb facs="tcp:183716:15"/>with whoſe wife I now leave him till the next Viſi<g ref="char:EOLhyphen"/>tation.</p>
+            </div>
+            <div n="5" type="character">
+               <head>
+                  <hi>5</hi> A Paraſite or Flatterer,</head>
+               <p>IS <hi>Solomons</hi> abject, debar'd every wiſe mans Table, not ſo much for his gluttony, as his glozing. He is ingendred by Pride, hatcht up by arro<g ref="char:EOLhyphen"/>gance, and perpetually fo<g ref="char:EOLhyphen"/>ſtred by fools (the Anvils on which hee ſtill beates) who by reaſon of their inſenſibi<g ref="char:EOLhyphen"/>lity obſerves not his inſinua<g ref="char:EOLhyphen"/>tion, but are preſently puft up with thoſe Peacockes<g ref="char:EOLhyphen"/>tailes he ſtickes in their fore<g ref="char:EOLhyphen"/>heads.
+<pb facs="tcp:183716:15"/>Greatneſſe never goes without this applauſive Puppet, and goodneſſe never can abide him, there being a kinde of Antipathy between them, His tongue is in the Eare of every affectator, and then never further from his owne heart. Folly and popu<g ref="char:EOLhyphen"/>larity are his prime objects, and he is ſtill preſent where they predominate. He can<g ref="char:EOLhyphen"/>not be truely generous, for he is a ſlave to other mens humours, a thing contrary to a true birth, or a true heart. His greateſt pride is, that he onely thinkes other men be<g ref="char:EOLhyphen"/>leeve him: his greateſt plea<g ref="char:EOLhyphen"/>ſure that he can laugh at
+<pb facs="tcp:183716:16"/>them in's ſleeve; and his greateſt profit is picking of thankes: hee hath more wit than wiſedome, and more garrulity than grace. He is a great obſerver of mens fan<g ref="char:EOLhyphen"/>cy, that he may fit his lyre to that tune. All men in the end hate him, and he goes out like a ſnuffe. His Conſci<g ref="char:EOLhyphen"/>ence accuſes him that hee hath prais'd men more than God, and conſequen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly got praiſe of neither; which hath ſo dejected him, that hee drops off like a greene apple in a great winde, and by his bruſe grows rotten at Core, and ſo cozens the next Co<g ref="char:EOLhyphen"/>ſtardmonger.</p>
+            </div>
+            <div n="6" type="character">
+               <pb facs="tcp:183716:16"/>
+               <head>
+                  <hi>6.</hi> An unxorious man.</head>
+               <p>IS one who hath left all the world for a woman, and all women for a thing called a wife, with which idole, he is ſo effeminately bewitcht, that hee forgets his annuall worſhip at Jeruſalem, and is tied up with a golden Calfe at home. This Dal lah is his Devotion, this Ruler his re<g ref="char:EOLhyphen"/>ligion, this Eve, the onely edge to his appetite, and he will taſt any fruit ſhe tempts him to (though ſower graps) This man is never his owne
+<pb facs="tcp:183716:17"/>man, but in thought, for his actions intended, are either diverted and writhed by her ſimple will, or els wholly vi<g ref="char:EOLhyphen"/>olated and broken by her ſuppoſed wiſedome; He can be no good common wealth man, he is ſo confinde to her cannopy, nor a good church man, he is ſo tyde to her can<g ref="char:EOLhyphen"/>nons, nor a wiſe man, to be vanquiſht with her wilfull<g ref="char:EOLhyphen"/>nes: Hee thinks himſelfe as ſafe in her favours as Adam in his firſt forme, and hopes to merit Olympus, by ma<g ref="char:EOLhyphen"/>king a Goddeſſe of <hi>Diana;</hi> the which hee is aſſured by his faith in her faire promi<g ref="char:EOLhyphen"/>ſes, and his obedience to her
+<pb facs="tcp:183716:17"/>ſacred Oracles: In fine, hee is good for nothing but to multiply mankinde, and con<g ref="char:EOLhyphen"/>ſequently, Sinne, and (which is fitteſt for him) not when he purpoſeth, but when ſhee pleaſeth. He cares for no bo<g ref="char:EOLhyphen"/>dy but her, nor any body at all for him; ſo that he may live quietly without compa<g ref="char:EOLhyphen"/>ny, and dye in his owne fol<g ref="char:EOLhyphen"/>ly without funerall.</p>
+            </div>
+            <div n="7" type="character">
+               <head>
+                  <hi>7.</hi> A countrey Widdow.</head>
+               <p>IS a broken ribbe of <hi>Adam,</hi> turn'd looſe into the world againe, and is ſearching for a
+<pb facs="tcp:183716:18"/>new Bone-ſetter, and newly poliſhing her ſelfe for a ſe<g ref="char:EOLhyphen"/>cond edition, or more faire impreſſion. She hath la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely beene ſomewhat mortified in memory of her deceaſed, but hath ſuddenly gathered up her crummes, and given her ſelfe out a brace of hun<g ref="char:EOLhyphen"/>dreds more than ere his eſtat was worth, beſides his debts and legacies, wheras her va<g ref="char:EOLhyphen"/>lidity proportionable can ſcarce abſolve thoſe. She carrieth her ſelfe ſmooth, de<g ref="char:EOLhyphen"/>mure, and familiar, yet at a certaine diſtance, leſt too much familiarity ſhould breed contempt, and then ſhe may cough long enough for
+<pb facs="tcp:183716:18"/>one to court her. If ſhe be young ſhe is capable of co<g ref="char:EOLhyphen"/>pulation, and the ſooner caught in that conjunct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve Ceremony; if paſt the prime, the more libidinous, ſubtile, and dangerous, having a double wil, the one from her deceaſed the other from her widdowhood, by the laſt of which you may perhaps buy a pigge in a poke; if ſhee be wealthy, all your comfort is, ſhe is her owne woman, and not ſubject to the avaricious counſell of peeviſh parents, who care not though the girle cuckold him, ſo the carle be ſcraping. She is an object to many: and it's well
+<pb facs="tcp:183716:19"/>if but one light on her. She hath already taſted of Man<g ref="char:EOLhyphen"/>draks; and likes the fruits ſo well, that ſhee longs to graft more imps upon that ſtocke. She is now trim'd up for the next faire, where if you can bargaine for her, you may ride her home with a twinde thred, and then make the beſt of an ill bargaine.</p>
+            </div>
+            <div n="8" type="character">
+               <head>
+                  <hi>8.</hi> A Chamber-maid.</head>
+               <p>HAth her proper denomi<g ref="char:EOLhyphen"/>nation from the Place where ſhe is moſt converſant and couchant (the Chamber)
+<pb facs="tcp:183716:19"/>and is the carefull poliſher thereof, the obſequious pin<g ref="char:EOLhyphen"/>ner of her Lady, and the true lover of her Taylor, ever ſince the curious cutting of her laſt Waſtecoate, who (with his gooſe) hath made ſuch impreſſion in her, that her Ladies Cloſet is thereby impoveriſht, and her Mar<g ref="char:EOLhyphen"/>melet melted in his miſchie<g ref="char:EOLhyphen"/>vous mouth. The beds and ſhe are a kinde of Relatives, where by reaſon of her neer alliance and familiarity, ſhe catcheth many a fall (to which ſhe is ſubject) but is ſeldome hurt by it in regard of their ſoftneſſe. She is the inſtrumental cauſe of her La<g ref="char:EOLhyphen"/>dies
+<pb facs="tcp:183716:20"/>Curioſity, and Pride, the originall as alſo the ſecret and ſoft ſhutter of the Por<g ref="char:EOLhyphen"/>tall, when her Lady would be private. Sowing and ſtarching is her prime occu<g ref="char:EOLhyphen"/>pation, and the Close-ſtoole her greateſt ſlavery. She is a creature commonly very courteous and may prove an honeſt woman, if ſhe be not puft up in the place. She is the patient endurer of her La<g ref="char:EOLhyphen"/>dies peeviſhneſſe, which per<g ref="char:EOLhyphen"/>haps may purchaſe her a pair of old ſilke ſtocking, which ſhe providently laies up till the next Summer, and then dernes them for the wedding day. Watching and warm<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:183716:20"/>of cloathes in a ſhort time wrinkcles her, and the bloſſome once blaſted, the fruit faileth. The beſt ſhe can acquire is but Miſtris of the Maydes, and the worſt that can befall her is but footing of Stockings.</p>
+            </div>
+            <div n="9" type="character">
+               <head>
+                  <hi>9.</hi> A broken Citizen.</head>
+               <p>IS one whoſe hornes are growne ſo great, that hee is aſham'd they ſhould bee ſeene, and is therefore glad the Gates are wide enough to give may to his paſſage, of which he takes his <hi>vale</hi> for a
+<pb facs="tcp:183716:21"/>certaine ſeaſon to ſome ſini<g ref="char:EOLhyphen"/>ſter Sanctuary; where hee lyes at racke and manger, whileſt his too credulous Creditors are gnawing their Thumbes. By his ſubtill car<g ref="char:EOLhyphen"/>riage hee wrought himſelfe into their Credit, of ſet pur<g ref="char:EOLhyphen"/>poſe, ſhortly to be out of their company; which, with acute language hee hath at laſt accommpliſht; and now they may go look this Buſh<g ref="char:EOLhyphen"/>lane needle in a bottle of hay. He abſents himſelfe ſo cunningly, that they ſhal not ſo much as heare of him, till they have ſpent their galls, and then by degrees he gives way to their inquiry with a
+<pb facs="tcp:183716:21"/>letter from Ireland, or ſome place farre remote, whileſt, (though diſguis'd) hee is at the next Taverne to them; obſerving how like ſo many Kites they lay wait for the Chicken in the Wood-pile. Hee hath beene a man of a large tongue, &amp; ſhort haire, which two have beene great helpes to his game. He is a man now ſo well ly'nd with the coyne acquired by his former impoſtures, that hee is in a quandary whether to give them a deſired Compo<g ref="char:EOLhyphen"/>ſition of twelve pence i'th pound, or to abjure the City for ever. His Conſcience (as falſe as the light he once de<g ref="char:EOLhyphen"/>ceiv'd
+<pb facs="tcp:183716:22"/>by) tells him, they that loſt it may ſpare it, and hee that winnes ought may weare it, whilſt he ſpends it worſe than hee got it, and muſt certainly pay for it, he knowes not how ſoone. He now diſcovers the ſecrets of filly Tradeſmen, and laughs at his ſleight in his higher Spheare. He hath now ad<g ref="char:EOLhyphen"/>mitted himſelfe amongſt the multitude of Man-ſlayers, and feeds them for feare, and his owne folly for faſhion. <hi>Milford lane,</hi> and <hi>Ram-ally</hi> are his Caſtles, Caſheerd Captaines, his companions; Souldiers his Conductors; and Serjeants and Bayliffs,
+<pb facs="tcp:183716:22"/>his perpetuall dreame and Terror; and in that li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle eaſe I'll leave him, till hee hath ſpent that he hath ſtolne, and then his laſt Refuge is Lud<g ref="char:EOLhyphen"/>gate, where his doleful voice gives more delight than pit<g ref="char:EOLhyphen"/>ty to his repining Credi<g ref="char:EOLhyphen"/>tors.</p>
+            </div>
+            <div n="10" type="character">
+               <head>
+                  <hi>10</hi> An old Bawd.</head>
+               <p>IS a menſtrous beaſt, en<g ref="char:EOLhyphen"/>gendred of divers moſt fil<g ref="char:EOLhyphen"/>thy excrements, by the ſtench of whoſe breath the Ayre is ſo infected, that her preſence is an inevitable con<g ref="char:EOLhyphen"/>tagion,
+<pb facs="tcp:183716:23"/>her eyes more poy<g ref="char:EOLhyphen"/>ſonous than the Baſilisk; her noſe (if any) moſt peſtilent pocky, her tongue more ſub<g ref="char:EOLhyphen"/>tile than the Hyena, who ſtil howles in ſome fained voice for the devouring of inno<g ref="char:EOLhyphen"/>cents, one who hath damna<g ref="char:EOLhyphen"/>bly deſtroyed her own ſoul, and is divelliſhly deviſing the deſtruction of others. Shee is the mother of impu<g ref="char:EOLhyphen"/>dency, the Dungeon of diſ<g ref="char:EOLhyphen"/>eaſes, the daughter of luſt, and the moſt obſcene ſiſter of ſcurrilous and laſcivious de<g ref="char:EOLhyphen"/>lights. And excellent Aſtro<g ref="char:EOLhyphen"/>nomer, for by the ratling of her bones ſhe can diſcover the alteration of the wea<g ref="char:EOLhyphen"/>ther;
+<pb facs="tcp:183716:23"/>Fooles have fatted her up to the day of ſlaughter, and Knaves are ready to cut her throat for it. Marſhals, Beadles, and Conſtables are her continual terrour, whom by much ſilver, ſhee per<g ref="char:EOLhyphen"/>ſwades to ſilence; ſilly maids, untam'd youths, and ſullen wives are her chiefe mar<g ref="char:EOLhyphen"/>chandizes, and ſhe ſells ſinne on both hands at a high rate. Adulterate beauties, and counterfeit complexions, are her alluring baits to deceive the ſimple, and all's fiſh that comes to net with her; All the credit ſhee hath got by her abomination, is carting without co<g ref="char:cmbAbbrStroke">̄</g>miſeration &amp; ca<g ref="char:EOLhyphen"/>ſting
+<pb facs="tcp:183716:24"/>of loathſome things at her defiled Carkaſſe. Diſea<g ref="char:EOLhyphen"/>ſes at laſt dry up her mar<g ref="char:EOLhyphen"/>row, and rottenneſſe ſo ſhi<g ref="char:EOLhyphen"/>vers her, that ſhe drops aſun<g ref="char:EOLhyphen"/>der on a ſudden, and wretch<g ref="char:EOLhyphen"/>edly dyes without pity; for whom, a Chriſtian buriall is too courteous.</p>
+            </div>
+            <div n="11" type="character">
+               <head>
+                  <hi>11.</hi> A Pander.</head>
+               <p>IS the Spaniell of a Bawd, who fetcheth and carrieth at her pleaſure, and is the moſt ſervile ſlave of baſenes. For halfe a crown he will be your ſervant all day, and for
+<pb facs="tcp:183716:24"/>the whole cut your throat at night. His lookes are com<g ref="char:EOLhyphen"/>monly ſilly and dejected, but you will finde his heart de<g ref="char:EOLhyphen"/>ceitfull, and his actions dam<g ref="char:EOLhyphen"/>nable. He will fawne upon thoſe he feares, and roughly miſuſe thoſe he can maſter. He lives at all diſtances and poſtures, one while Tapſter, or Tobacco-ſeller, otherwiſe Strumphuſher; now brother, then Cozen; ſometimes ma<g ref="char:EOLhyphen"/>ſter of the houſe; yet all this while, Rogue, Theefe, and Pimpe. He is impudency it ſelfe, for if the officer appro<g ref="char:EOLhyphen"/>cheth, he ſweareth and for<g ref="char:EOLhyphen"/>ſweareth, as the caſe ſhall re<g ref="char:EOLhyphen"/>quire. Hee is much ſub<g ref="char:EOLhyphen"/>ject
+<pb facs="tcp:183716:25"/>to Kicking, and is often baſted, together with his Bawd. He walkes in perpe<g ref="char:EOLhyphen"/>tuall darkneſſe, and is ſtill in danger of the Watch, and cannot be otherwiſe than the abortive iſſue of ſome Adul<g ref="char:EOLhyphen"/>tereſſe, his nature is ſo con<g ref="char:EOLhyphen"/>ſonant to theirs. He is ſpur'd out of all honeſt company, and foſtred with none but fornicators. Helives thus till Bridewell hath poſſeſt his Bitches, and the Pox poſ<g ref="char:EOLhyphen"/>ſeſt him. And then with a meagre countenance, and creeping thred bare Cloke, hee creepes from Bawd to Bawd for a cruſt to comfort his crazy Carkaſſe, and at
+<pb facs="tcp:183716:25"/>laſt in his owne ordure, moſt deſperately and diſtractedly dyes in a ditch, a grave alrea<g ref="char:EOLhyphen"/>dy digged for him.</p>
+            </div>
+            <div n="12" type="character">
+               <head>
+                  <hi>12.</hi> A Countrey Girle or Darling.</head>
+               <p>IS a raw, young, and green maid, newly arrived at the Haven of diſcretion, and yet farre from the Port thereof, one that thinkes more than ſhe ſpeaks, ſpeaks more than ſhe underſtands, and under<g ref="char:EOLhyphen"/>ſtands more than ſhee dares expreſſe. Shee is prankt up like a Peacocke by her do<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:183716:26"/>Parents, and is the pre<g ref="char:EOLhyphen"/>cious pearle of her mothers Pride, for the Crow thinkes his owne bird the faireſt, and they thinke their Gooſe a Swan. She is a babby trim'd up for every feaſt and faire, where the Plough-drag ſa<g ref="char:EOLhyphen"/>lutes her with two kiſſes, two penny-worth of peares, and a two-penny red ribbon, which hath ſo raviſht the Girle, that ſhee gads after him with much greedineſſe, and preſently puts finger i'th eye for his abſence. Shee is very towardly and tractable, the cauſe that her father ſo feares his horſe-keeper, leſt hee ſhould ſteale her and his
+<pb facs="tcp:183716:26"/>horſe together. She is one whom no deſert can gaine, nor Gentry obtaine, except he can firſt plough with that Heiffer, and then hee may finde out the Riddle, for ſhe is falne in love with an Acre<g ref="char:EOLhyphen"/>ſtaffe, and longs to handle it. Shee is her fathers hope, and her mothers happineſſe, the Paragon of that Progeny, though the courſeſt in that Countrey. If they dare truſt her, ſhe is ſent to be ſold at the next Market, together with her Basket of Butter, where at the Croſſe her ſim<g ref="char:EOLhyphen"/>pring will ſcarce give her leave to tell the price on't. And thus I leave her ſtil lon<g ref="char:EOLhyphen"/>ging
+<pb facs="tcp:183716:27"/>for ſomething that her friends like not, and in that only conſiſts her wiſedome, that ſhe will pleaſe her fancy ſooner than her friends.</p>
+            </div>
+            <div n="13" type="character">
+               <head>
+                  <hi>13.</hi> A Lawyers Clarke.</head>
+               <p>IS a ſpruce youth ſome<g ref="char:EOLhyphen"/>what above the degree of a Scrivener, much conver<g ref="char:EOLhyphen"/>ſant amongſt ſheets &amp; skins, Subjects he works upon much, and is a kind of Jugler, who by ſlight of hand, will ſuddenly make a cleanly conveyance of your eſtate, that you ſhal not afterwards
+<pb facs="tcp:183716:27"/>need to ſtudy how you may prodigally ſpend it; and he will ſo contrive it by preſi<g ref="char:EOLhyphen"/>dent, that he will make you an example whilſt you live. He is one that will doe more with a gray Gooſe wing, than ever <hi>Robin Hood</hi> could do, and is very dangerous, if once he puts his hand too't. Foure pence a ſheet hath furniſht him with a new Suit, and he ſomtimes executes the place of a Gentleman-uſher upon his Miſtris. He is a man ge<g ref="char:EOLhyphen"/>nerally of no ſolidity, except by his much coſtivenes with continuall ſitting, yet a man of great ſtudy, inſomuch it hath ſo ſtupified him, that he
+<pb facs="tcp:183716:28"/>lookes for his pen when it ſtickes in's eare. Littleton is too obſcure for his capacity; and not one amongſt forty of them can reade Law French. He is commonly a good fel<g ref="char:EOLhyphen"/>low, and loves to gaine no more than hee meanes to ſpend. He hath a piece of <hi>Iudas</hi> his office, (the Carri<g ref="char:EOLhyphen"/>age of the Bagge) which were it full of Peeces, as it is of Papers, he might chance to ſhew his Maſter a tricke fort't. Hee aſpiers ſome<g ref="char:EOLhyphen"/>times to his Maſters daugh<g ref="char:EOLhyphen"/>ter, but being ſtav'd off there, hee choppes upon the Chamber-maid, and there ſtickes faſt. he hath
+<pb facs="tcp:183716:28"/>lookt for preferment till age hath dimm'd his eye<g ref="char:EOLhyphen"/>ſight, and is now endea<g ref="char:EOLhyphen"/>vouring to goe Clarke of a Band in the next volunta<g ref="char:EOLhyphen"/>ry Voyage; which if hee ſpeed, the Leagre ſo belou<g ref="char:EOLhyphen"/>zeth him, that hee retur<g ref="char:EOLhyphen"/>neth with much Humility, and poorely proſtrates him<g ref="char:EOLhyphen"/>ſelfe for a halfe-penny a ſheet. He is a meere Clarke without any other quality, and hath ſeldome any com<g ref="char:EOLhyphen"/>mendation, but hee writes a faire hand.</p>
+            </div>
+            <div n="14" type="character">
+               <pb facs="tcp:183716:29"/>
+               <head>
+                  <hi>14.</hi> A Carle, or Farmers Te<g ref="char:EOLhyphen"/>nant.</head>
+               <p>IS a kinde of a Mole, perpe<g ref="char:EOLhyphen"/>tually delving in the earth for his dinner; and is of as great judgement as <hi>Aeſops</hi> Cocke, eſteeming his corne more than precious ſtones. He is a fellow of a very great ſtomacke, which his Land<g ref="char:EOLhyphen"/>lord can quaile, ſooner than his poore dinner pacifie. And is ſomewhat of the na<g ref="char:EOLhyphen"/>tures of a Hogge, looking ſtill downeward whilſt hee chawes and gathers the A<g ref="char:EOLhyphen"/>cornes,
+<pb facs="tcp:183716:29"/>not knowing the Tree whence they fell: and ſeldome looks up, but for a ſhower. He is the wretched Modell of our forefathers miſery, and that which was <hi>Adams</hi> curſe, is his calling; Sorrow, the ſweat of his face, and a barren field, are his wrackt rents and revenewes, and a griping Landlord his intollerable griefe. Yet hee riſeth early with the Larke, and whiſtles (as he thinkes) to the tune ſhe ſing, when his broken notes demon<g ref="char:EOLhyphen"/>ſtrate nothing but Muſicke for a horſe, and according to that whiſtle is his ſinging of Pſalmes (the cauſe of ſo
+<pb facs="tcp:183716:30"/>much diſcord in the Coun<g ref="char:EOLhyphen"/>trey Quire) When hee tils the earth, he tallowes it with his own greaſe, and endures it the better for the dunging of his ground. His harveſt is his greateſt happines, which is more welcome to him then the Sabbath, and in rea<g ref="char:EOLhyphen"/>ping time hee wiſheth none, leſt he ſhould looſe more in that one day, than get in the other ſixe: for though he ac<g ref="char:EOLhyphen"/>knowledgeth godlineſſe to be great gaine, yet his grea<g ref="char:EOLhyphen"/>teſt is his graine. He is the ſoyle on which all Citizens and Idle folke feede, the ve<g ref="char:EOLhyphen"/>ry drudge and doghorſe of the world, one that dares not
+<pb facs="tcp:183716:30"/>eate the fruit of his labour leſt his rent ſhould fall ſhort, and he be turn'd forth of his toyleſome Vineyard. His hands are his lands, his plea<g ref="char:EOLhyphen"/>ſures reall paines, his Crops carking Cares; his food, the bread of ſorrow, his cloathes the skinnes of his outworne Cattell, and taglocks of his travell: his whole life a con<g ref="char:EOLhyphen"/>tinuall toyle, and his worke an endleſſe warfare. His greateſt comfort is his law<g ref="char:EOLhyphen"/>full Calling, and his moyling in the earth, a meanes of his mortification. Every Clodde he turnes over is the em<g ref="char:EOLhyphen"/>bleme of his miſery. And his Colter and Share the em<g ref="char:EOLhyphen"/>blemes
+<pb facs="tcp:183716:31"/>of his grave, the which hee is alwayes dig<g ref="char:EOLhyphen"/>ging.</p>
+            </div>
+            <div n="15" type="character">
+               <head>
+                  <hi>15</hi> A double benefic't Parſon.</head>
+               <p>IS a Maſter of Arts or Crafts, who by favour and coyne, hath caught a degree a yeer too ſoon, and now lies for all the livings he can lay hold of. Hee hath already rung his Bells for two Parſo<g ref="char:EOLhyphen"/>nages, and not ſufficiently prefer'd by thoſe, is putting in for a Prebend or two to make himſelfe more com<g ref="char:EOLhyphen"/>pleat in his Taffeta Tippet,
+<pb facs="tcp:183716:31"/>and more curious Caſſacke. Simony and he are Correla<g ref="char:EOLhyphen"/>tives, and that which hee ob<g ref="char:EOLhyphen"/>taines by Simony, he retains by Subtilty. His Degrees give him a Doctor (tho a ve<g ref="char:EOLhyphen"/>ry dunce) and his device is now for the next Deanery, to which Muſicke, money muſt be the maſter of the Organs, if hee meanes to ſing in that Quire. Hee hath two Pul<g ref="char:EOLhyphen"/>pits and one Sermon, which he preacheth at both his Pa<g ref="char:EOLhyphen"/>riſhes at his primer inducti<g ref="char:EOLhyphen"/>on, and then a couple of ſilly Curates read out the reſt of his Incumbrency for the twentieth part of his Parſo<g ref="char:EOLhyphen"/>nages. He is one who hath
+<pb facs="tcp:183716:32"/>the cure of others ſoules, and yet (by his account) cares not for his owne; and (the more's the pitty, is clad with the fleece, without feeding the flocke. His Pulpets and he are ſo falne out, that they hate one another, and 'twere no matter if he had falne out of them long ago. His grea<g ref="char:EOLhyphen"/>teſt ſtudy is how hee may wracke his Tythes to a high<g ref="char:EOLhyphen"/>er Rate, and then feed at eaſe like a Boar in a Frank. He's very fearefull of another Parliament, leſt one of his Livings ſhould fall ſhort of his reckoning. He hath fiſht till hee hath fill'd his bagge, then ſits down to fill's belly,
+<pb facs="tcp:183716:32"/>and lends little or naught to the diſtreſſed. Hee is one whom God hath falne out with for his two little teach<g ref="char:EOLhyphen"/>ing, and his Neighbours for too much Tything: He will ſooner convert the Gleabe into a paſture, than a ſoule to his Maſter, and is of this opi<g ref="char:EOLhyphen"/>nion, that if he hires one, his duty is perform'd. He is the cauſe of ſo many poore Schollers, and his over-bid<g ref="char:EOLhyphen"/>ding, the debarring of their gifts, or foreſtaller of their Markets: and yet he is ſo ill inclin'd, that hee curſeth the Laity who poſſeſſe impro<g ref="char:EOLhyphen"/>priations, and is now grown ſo fat with pleaſure &amp; pride,
+<pb facs="tcp:183716:33"/>that nothing wil ſatisfie him but a Biſhopricke, or a Grave; in the laſt of which, he is daily wiſht, that ſome man of more deſerts, might climbe to that place hee ſo ſeldome came neere, (the Pulpit.)</p>
+            </div>
+            <div n="16" type="character">
+               <head>
+                  <hi>16.</hi> A young School-maſter,</head>
+               <p>IS a new Commenc'd Ba<g ref="char:EOLhyphen"/>chelour, who hath ſuckt ſo long at the paps of his Nurſe (the Univerſity) that ſhee hath almoſt pin'd him: and therefore his fortunes deny<g ref="char:EOLhyphen"/>ing him the degree of Ma<g ref="char:EOLhyphen"/>ſter,
+<pb facs="tcp:183716:33"/>in a reſolution leaves the Nurſe to rocke the Cradle her ſelfe, and boldly adven<g ref="char:EOLhyphen"/>tures into the broad world, (like a Lapwing with it's ſhell o'th Crowne) with Lil<g ref="char:EOLhyphen"/>ly in's head, and Ramus in's hand, where in ſome ſmall Village hee firſt exerciſeth the Art of a Pedegogue, for inſtruction of infants. Two pence a week, by the Rurals, is proffered him at his firſt entrance, for the literature of little Primmer Boyes, and foure pence a weeke for Ac<g ref="char:EOLhyphen"/>cidences, beſides his Sun<g ref="char:EOLhyphen"/>dayes dinner, by turne, toge<g ref="char:EOLhyphen"/>ther with the plaine gifts of ſome of their plainer mo<g ref="char:EOLhyphen"/>thers;
+<pb facs="tcp:183716:34"/>by the which, hee at<g ref="char:EOLhyphen"/>chieveth to the annuall Pen<g ref="char:EOLhyphen"/>ſion of ten pound <hi>Sterling</hi> He is one ſtill exerciſing the rod of correction, and the grea<g ref="char:EOLhyphen"/>teſt part of his Revenue, is the fees of tender mothers for ſparing his rod, and ha<g ref="char:EOLhyphen"/>ting their Children. He doth all things in order, for he hath now taken orders, and begins to peepe into a Pul<g ref="char:EOLhyphen"/>pit with a pocket-Sermon; and as that takes, is either animated or diſcourag'd, to proceed to a Vicarage. Hee is one commonly of more deſert than reſpect, and of<g ref="char:EOLhyphen"/>ten, for his good parts, ſur<g ref="char:EOLhyphen"/>paſſeth their lazy Parſon. If
+<pb facs="tcp:183716:34"/>he ſcapes a Free-Schoole, he may light upon a Free-hol<g ref="char:EOLhyphen"/>ders daughter, and her love may procure him a Library. A Lecture read to her may enlarge his Patrimony, and a licence confirme. Hope and patience are his props, and his perſwaſion is ſtill, that the Seven Liberall Sciences will not ſee him want. A Free-Schoole Lecture or Vi<g ref="char:EOLhyphen"/>carage is his next ayme, and if all theſe faile, a Scholler, by his induſtry, may ſoone be fit for any thing.</p>
+            </div>
+            <div n="17" type="character">
+               <pb facs="tcp:183716:35"/>
+               <head>
+                  <hi>17.</hi> A Countrey Alewife,</head>
+               <p>IS a ſubtill Creature, who ſeeming to bee clad with ſimplicity, and to be as plain as her poorer Petticote, by her ſhort Courtſies and ru<g ref="char:EOLhyphen"/>rall carriage, will draw till both you and her Barrell be both dry together; and may be term'd the Water worke of iniquity, or the Unctious Engine of ſophiſticate and adulterate Ale. Toſſing of Jugs, Pots, and Cans are her joy, and the froth the beſt part of her gaine. The Aſſiſe
+<pb facs="tcp:183716:35"/>of bread and beere is a hate<g ref="char:EOLhyphen"/>ful to her as a Promoter, and yet all is not well except he be in with her; and (which is worſe) ſhe is forced to make the Diſners drunke once a month to conceale her cun<g ref="char:EOLhyphen"/>ning. She is the Receptacle for all commers, and what<g ref="char:EOLhyphen"/>ſoever be the company, their coyne ſhall bee alike to her. Her Purſe fils as their bellies, but empties not ſo ſoone, for it ſeldome exonerats its ſelfe till the Maulſter appeares, and then farwel forty pence. Miſreckoning and ſhee are ſworne ſiſters, and her owne daughter is forc'd to lie for't. Druunkenneſſe and quarrel<g ref="char:EOLhyphen"/>lings
+<pb facs="tcp:183716:36"/>are her dayly gueſts, and miſchiefs, oft-times, the murtherer of her ſigne; and then the barrels are ill en<g ref="char:EOLhyphen"/>treated for their ſo liberall contribution. Forlorn ſwag<g ref="char:EOLhyphen"/>gerers are her greateſt ſor<g ref="char:EOLhyphen"/>row, for they'll ſcore againſt her will, and then wipe't out with a wet finger. She hath fill'd her Purſe by forfeiting her Recognizance, (which the Clarke of the Peace will empty with his fees.) As Drunkards increaſe, ſo doth her Tipping; and the Tap and ſhe are toſt up together. She loves Tinkers and Ped<g ref="char:EOLhyphen"/>lers for their true payment of her, and hates nothing
+<pb facs="tcp:183716:36"/>more than a Puritan, or a Parſon that perſwades from drinking. Shee is annually forced to purchaſe a new li<g ref="char:EOLhyphen"/>cence, that her launted liquor may runne more warranta<g ref="char:EOLhyphen"/>ble. Oathes, Idleneſſe, and infinite abſurdities are be<g ref="char:EOLhyphen"/>gotten and foſtered at her Alebench, and poore Ale-knights wives and children doe perpetually curſe her.</p>
+            </div>
+            <div n="18" type="character">
+               <head>
+                  <hi>18.</hi> An Aldermans daughter.</head>
+               <p>IS the peeviſh Spawne of a peremptory Citizen; now
+<pb facs="tcp:183716:37"/>ready at the point of prefer<g ref="char:EOLhyphen"/>ment, and is heighted up for that purpoſe, and is the purer mettle of the miſer her fa<g ref="char:EOLhyphen"/>ther; who, not long ſince, deſcended from the loynes of ſome lubbardly Farmer, and is now by giddy fortune furd all over, and in the vanity of his ſpirit lookes aſconce if you miſſe the title of Maſter Alderman. This Peacocke, his daughter, is one of the painted Pageans of the City, who dares not look upon her ſplea-foot for cruſhing the ſets of her Ruffe with her Chinne, and weares her coat the longer to conceale them, yet (ſuch is her pride) cannot
+<pb facs="tcp:183716:37"/>forbeare the holding them up for her ſilk ſtockings ſake. She is grown to that height, that ſhe ſcornes to know her fathers courſer kindred; nay more, longs ſo for honour, (the Idoll of fooles) that ſhe diſdaines a bird of her owne feather (a Cockney) though a fooliſh Knight; and ambi<g ref="char:EOLhyphen"/>tiouſly (through the concep<g ref="char:EOLhyphen"/>tion of her coyne) aſpires to the Court, and thinks a Lord little enough for her. And though ſhe be crooked both in mind and body, yet con<g ref="char:EOLhyphen"/>fidently maintaines, that Gold makes all things ſtrait, for which ſhe knowes ſtrait, for which ſhe knowes her fa<g ref="char:EOLhyphen"/>ther hath not ſtretch'd his
+<pb facs="tcp:183716:38"/>Conſcience in vaine. She is the prettieſt Parrat her mo<g ref="char:EOLhyphen"/>ther hath hatch'd, and in her diſcourſe (which is never ſo<g ref="char:EOLhyphen"/>lid) will ſpeake non-ſenſe with much celerity, and will paſſe by it without bluſhing, or notice of it. She with the French-hood her mother, doe pace with much pompe and equipage to the Spittle, &amp; to the Rehearſal Sermons, where ſhe retaines only two ſences, a wandring eye, and a liquoriſh Pallate; ſeeing of ſtrange objects, and taſting of ſweet-meats, with which, her purl'd handkerche is re<g ref="char:EOLhyphen"/>pleat. Her mind is much ſet upon Court Maſques, the
+<pb facs="tcp:183716:38"/>cauſe of her ſleighting the City, where ſometimes ſhe hath participated of ſuch cu<g ref="char:EOLhyphen"/>rious Cates, that the pleaſure of the will not yet out of her Pallate, which makes her in penſive ſort ſolicite her pa<g ref="char:EOLhyphen"/>rents to give her her owne choyce; and however, ſhee will be a Lady, though ſhe loſe all for't. If her mother once call her Madam, ſhe is made for ever, for it is the heighth of her ambition to bee the top of her kindred, leſt her betters ſhould take place of her. Her Title and Attire are her onely Idols, with which ſhe is hurried in a Coach with ſix horſes, to
+<pb facs="tcp:183716:39"/>the heighth of her pride, (which muſt have a fall) and then perhaps ſhe may be left with a Litter.</p>
+            </div>
+            <div n="19" type="character">
+               <head>
+                  <hi>19.</hi> A Prodigall,</head>
+               <p>IS a profuſe fellow puft up with affectation, and nu<g ref="char:EOLhyphen"/>ſled in the ſame by vaine glo<g ref="char:EOLhyphen"/>ry (the finall end his ſmaller wit and thinner skull aymes at) towards which all his un<g ref="char:EOLhyphen"/>towards which all his un<g ref="char:EOLhyphen"/>toward actions tend. Hee deemes all his equals, his in<g ref="char:EOLhyphen"/>feriours, eſpecially thoſe he moſt accompanies, amongſt which hee thinkes himſelfe
+<pb facs="tcp:183716:39"/>the beſt man for paying all the reckoning, which they incontine<g ref="char:cmbAbbrStroke">̄</g>tly without grudg<g ref="char:EOLhyphen"/>ing grant him, leſt their very offer ſhould provoke him to indignation, at leaſt to oaths, to which he is very apt. He is never in love with mony but when he wants it, and when he hath it, he ſleights it. He is one of a very yeelding na<g ref="char:EOLhyphen"/>ture, inſomuch, that if you praiſe ought of his that he af<g ref="char:EOLhyphen"/>fects, he preſently beſtowes it on you, ſcorning to be ſo baſe as to ſtand a begging. Nothing troubles his ſoule ſo much as to be laſt in a new faſhion, or the leaſt in com<g ref="char:EOLhyphen"/>pany when hee is ſo accou<g ref="char:EOLhyphen"/>tred.
+<pb facs="tcp:183716:40"/>His carriage is very courteous, yet ſomewhat quilted with ſingularity (the ſecret pride of Prodigals,) fooles are his admirers, and knaves his foothers, whilſt hee forgets himſelfe to re<g ref="char:EOLhyphen"/>member them, and never thinks of ſhutting the ſtable<g ref="char:EOLhyphen"/>doore till the ſteed be ſtolne. His greateſt bragge is, hee hates covetouſneſſe, not dreaming how in the meane time he imbraceth the con<g ref="char:EOLhyphen"/>trary extreame vice. Hee ſpends with ſuch confuſion, that his ſuppoſed friends and aſſociates doe willingly for<g ref="char:EOLhyphen"/>get his Courteſies, and is of ſuch ſublimity of ſpi<g ref="char:EOLhyphen"/>rit,
+<pb facs="tcp:183716:40"/>that he never lookes ſo low as hogs, til he eats husks with them, and then the Trough proves his Touch<g ref="char:EOLhyphen"/>ſtone. All men behold him with an (alas! tis pitty) whilſt few or none ſupply his po<g ref="char:EOLhyphen"/>verty which purſues him like an armed man. He is at laſt o'retane like a Butterfly in a ſtorme, and left by all thoſe that ſeem'd to love, and (me<g ref="char:EOLhyphen"/>thinks) in anguiſh of Spirit I heare him croſſe the Proverb and ſay, Better is a penny in one's purſe, than a Courtly friend.</p>
+            </div>
+            <div n="20" type="character">
+               <pb facs="tcp:183716:41"/>
+               <head>
+                  <hi>20.</hi> An Vſurer,</head>
+               <p>IS an old Fox clad in a lamb skinne, who hath prey'd ſo long abroad, the hee hath feather'd his neſt for hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time, and now ſits cloſe in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Denne, and feedes ſecurely upon his former ſtealths, And though the Proverbe ſaith <hi>Ill gotten goods never proſper</hi> yet it failes with him, for hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> golden tree flouriſheth and croppe increaſeth what wea<g ref="char:EOLhyphen"/>therſoever comes. And if ol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Time</hi> lends him but yeere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and dayes ſtill, he cares not
+<pb facs="tcp:183716:41"/>though hee give time to o<g ref="char:EOLhyphen"/>thers, as if he had it to ſpare. Gold and ſilver are his Idols or Images, which he hides as cloſe as <hi>Rachel</hi> did her fathers; he keeps them priſoners un<g ref="char:EOLhyphen"/>der locke and key, till Bils and Bonds give ſecurity for their ſafe returne, with ano<g ref="char:EOLhyphen"/>ther petty imperſonall Idol, cald Intereſt. His greateſt mi<g ref="char:EOLhyphen"/>ſtery is the particular know<g ref="char:EOLhyphen"/>ledge of each petitioners e<g ref="char:EOLhyphen"/>ſtate, who ſolicite him for money, which by ſecret in<g ref="char:EOLhyphen"/>telligence hee knew better ſometimes than the borrow<g ref="char:EOLhyphen"/>ers themſelves, which if hee feares, hee falls off till they finde ſecurity to fill up his
+<pb facs="tcp:183716:42"/>mouth. His perpetuall me<g ref="char:EOLhyphen"/>ditation is upon the futur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dayes of payment, which h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> punctually obſerves, hoping the miſſing of a day may make a forfeiture, and ha<g ref="char:EOLhyphen"/>ving law fort, let conſcienc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go to the devil. He is grown very ſubtill in his trade, pry<g ref="char:EOLhyphen"/>ing into the poſſeſſions o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> young heires, whoſe parent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by debts and legacies have impoveriſht; &amp; if he can bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> catch them in a Calfe-skin he is cock-ſure; for by ſuch mortgages his mony ſo eats, that thereby hee ſoone at<g ref="char:EOLhyphen"/>chieves Fee-ſimple, for by many ſuch Calfe-skins, he i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> able to cloathe himſelfe in
+<pb facs="tcp:183716:42"/>Sables. He ſeldome furniſh<g ref="char:EOLhyphen"/>eth men at the firſt entreaty, though the ſecurity be ſuffi<g ref="char:EOLhyphen"/>cient, but will procraſtinate you for a weeks intermiſſion, pretending in the meane time to borrow it for you; which borrowing, attracts Brokage (the yonger brat of Uſury) In his trade above all others, you muſt both pray and pay, and yet nere have thankes for your cuſtome: commonly hee dares ſcarce eat of his abundance for di<g ref="char:EOLhyphen"/>miniſhing the ſtocke; and but for cold, would goe na<g ref="char:EOLhyphen"/>ked, to ſave coſt: his very habit wil diſcover him from top to toe, and his leaner
+<pb facs="tcp:183716:43"/>chaps, his pinched carkaſſe. He is ſtill counting his chic<g ref="char:EOLhyphen"/>kins before they are hatcht, whilſt his owne day of ac<g ref="char:EOLhyphen"/>count befals him unawares. Hee never ſang the fifteenth <hi>Pſalme</hi> with a true heart, which troubles his conſci<g ref="char:EOLhyphen"/>ence on his death-bed, and may juſtly make him feare he hath loſt more Treaſure then ere he traded for.</p>
+            </div>
+            <div n="21" type="character">
+               <pb facs="tcp:183716:43"/>
+               <head>
+                  <hi>21.</hi> A Broker.</head>
+               <p>IS a forlorne, or bankrupt Tradeſman, who hath di<g ref="char:EOLhyphen"/>ved into divers ſorts of mer<g ref="char:EOLhyphen"/>catory deceits, and findes none ſo ſweet as this miſ<g ref="char:EOLhyphen"/>chievous myſtery of Broke<g ref="char:EOLhyphen"/>ry, (the blacke Art of diſho<g ref="char:EOLhyphen"/>neſty) He is the receptacle for Theevery, and a vent for much Villany. There is a re<g ref="char:EOLhyphen"/>ciprocall kindneſſe betwixt him and a Rogue, and wer't not for filſhing, his Trade would faile. Rather than not be trading, hee will deſcend
+<pb facs="tcp:183716:44"/>to petty Larceny, or any kna<g ref="char:EOLhyphen"/>very to gain a penny. Pawns are his perpetuall practice, for which (of what kind ſoe<g ref="char:EOLhyphen"/>ver) hee never lends above halfe the value, ſetting a pe<g ref="char:EOLhyphen"/>remptory day for their re<g ref="char:EOLhyphen"/>demption, with ſix pence for the bill, and intereſt treble the Statute in the hundred, upon their redemption, which he ſeldome feares, for hee knowes the parties of be no ſuch pay-maſters. He workes much upon Poverty and neceſſity, and by his un<g ref="char:EOLhyphen"/>lawfull intereſt, oft-times eates out the price of that they were full ſorry to part with. He confidently walkes
+<pb facs="tcp:183716:44"/>by his old remnants, for all commers, ſitting at the re<g ref="char:EOLhyphen"/>ceit of all ill cuſtome. Coo<g ref="char:EOLhyphen"/>zeners are a great part of his Cuſtomers, and Cut-purſes his Coadjutors. His chiefeſt knavery is the alteration of the property, that the di<g ref="char:EOLhyphen"/>ſcription of the deceived, may not find out the deceit. Hee is a backe friend to the City, the ſcum of Trades<g ref="char:EOLhyphen"/>men, a foſterer of Theft, and a palpable ſtaine of the Sub<g ref="char:EOLhyphen"/>urbs. Long-lane &amp; London-wall may yet embrace him, (to the great wrong of New<g ref="char:EOLhyphen"/>gate) till ſome further Law reforme it, for the Receiver is as bad as the Thiefe, and
+<pb facs="tcp:183716:45"/>the enticing cauſe of ſtealth, of which many accuſe him; and if he be ſo impudent as to deny it, Tiburne may ſhortly prove it, which di<g ref="char:EOLhyphen"/>ſpatcheth many more deſer<g ref="char:EOLhyphen"/>ving.</p>
+            </div>
+            <div n="22" type="character">
+               <head>
+                  <hi>22.</hi> A Thraſo or Bragga<g ref="char:EOLhyphen"/>dotia,</head>
+               <p>IS a boyſterous fellow in a Buffe-Coat, ſwelling like <hi>Eolus,</hi> in windy words, whoſe tongue is ſtill applauding himſelfe, and detracting from others; and by grim lookes and ſterne language
+<pb facs="tcp:183716:45"/>idolizeth his owne ignomi<g ref="char:EOLhyphen"/>nious actions. One that makes all his frayes with his unctious Tongue, and then is forc'd ſometimes (unwil<g ref="char:EOLhyphen"/>lingly) to maintaine and de<g ref="char:EOLhyphen"/>fend them by his timerous hands, or to avoid them by her treacherous feet. His va<g ref="char:EOLhyphen"/>lor is daring and affrighting words, which hee foameth out with ſuch a forced fury, that you would thinke him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n earneſt, and ſo hee would be, ſave that his heart gives his tongue the lye, which it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s obediently puts up, as hee will your blowes; for hold <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut his fained Choller up to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s feeble height, and begin
+<pb facs="tcp:183716:46"/>but where hee ends, and hee'll quake like an Aſpen leafe, or grow ſo flegma<g ref="char:EOLhyphen"/>ticke and coole, that he will take your kickes for courte<g ref="char:EOLhyphen"/>ſies, and your corrections for good miſ-conſtructions, yet by his rough-way hee often carries the conqueſt amongſt Cowards, whoſe ſmalleſt ſa<g ref="char:EOLhyphen"/>tisfaction, upon any cauſe of duell he ſuddenly entertains with inward joy, leſt perſi<g ref="char:EOLhyphen"/>ſting in his peremptorineſſe he ſhould force them but to offer defence, of which he is very fearefull. And if con<g ref="char:EOLhyphen"/>trary to his intent, he chan<g ref="char:EOLunhyphen"/>ceth by his auſterity, to in<g ref="char:EOLunhyphen"/>curre a quarrell (of which h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:183716:46"/>is very cautelous) it's enough to put him into a quartaine ague, and his temerity is ſud<g ref="char:EOLhyphen"/>denly turn'd to timidity. That little valour which he hath, I muſt needs confeſſe is true, becauſe it's link'd with diſcretion, for I'le war<g ref="char:EOLhyphen"/>rant you, hee'll ſtrike none but thoſe he knows will not reſiſt: hee is a Schoole boy well learnt in this, that hee knows who he can maſter. In briefe, he is one that would be valiant, but for beating; and being beaten, eſteemes himſelfe the better man, in that he adventur'd it And may be compar'd to a Tem<g ref="char:EOLhyphen"/>peſt, that bluſters a while,
+<pb facs="tcp:183716:47"/>and is ſuddenly ſilent; or to a blazing Candle, that flut<g ref="char:EOLhyphen"/>ters till it extinguiſheth, and then ſtands there ſtinking.</p>
+            </div>
+            <div n="23" type="character">
+               <head>
+                  <hi>23.</hi> A Sempſter Shop-keeper,</head>
+               <p>IS a feminine Creature, fur<g ref="char:EOLhyphen"/>niſht with the fineſt Ware, making her greateſt gaine of <hi>Sindon,</hi> or fine linnen; tranſ<g ref="char:EOLhyphen"/>forming it into ſeverall ſhapes for that purpoſe, and may bee call'd the Needle<g ref="char:EOLhyphen"/>worke purle of prettineſſe. Shee is very neatly ſpruc'd up, and placed in the fronti-ſpice of her ſhop, of purpoſe,
+<pb facs="tcp:183716:47"/>(by her curious habit) to al<g ref="char:EOLhyphen"/>lure ſome Cuſtome, which ſtill increaſeth &amp; decreaſeth, as her beauty is in the full, or the wane. She hath a pretty faculty in preſenting her ſelf to the view of Paſſengers, by her roling eyes, glancing through the hangings of Tif<g ref="char:EOLhyphen"/>fany and Cobweb-lawne, that the Travellers are ſud<g ref="char:EOLhyphen"/>denly ſurprized, and cannot but looke backe, though but to view babbies in her face, and in affection to her come<g ref="char:EOLhyphen"/>lineſſe, muſt needs cheapen her commodity, where they are wrapt into a bargaine by her beauty, and doe kiſſe the Nurſe for the childs ſake,
+<pb facs="tcp:183716:48"/>which ſhee kindely accepts, and deſires them as they like that, ſhe may have more of their Cuſtome. In her trade ſhee is much troubled with ſtitches; amongſt which backe-ſtich is the moſt or<g ref="char:EOLhyphen"/>dinary, eaſie, and pleaſant to her; and if you cannot bar<g ref="char:EOLhyphen"/>gaine for her Ruffes in her ſhop, ſhe will fit you with choyce at your Chamber, ſo you pay her well for her paines: She is well acquain<g ref="char:EOLhyphen"/>ted with hemming too, which ſometimes makes her leave her Needle to drinke a cup of Canary, to breake her ſtitch; nor is ſhee ignorant of Cutwork and Purſework,
+<pb facs="tcp:183716:48"/>but hath her particular pat<g ref="char:EOLhyphen"/>ternes for them too. Her ſmile, in asking what you lacke, will force you to want ſomewhat (though but a paire of ſockes) and by your buying of them, ſhee may draw you to a ſhirt, and warm it for you too the next morning. She is the patterne of cleanlineſſe, the Barbary Button of bravery, an Ex<g ref="char:EOLhyphen"/>changer or Citty Barterer, who cannot want cuſtome ſo long as her ware's good She love not thoſe that lye na<g ref="char:EOLhyphen"/>ked, to ſave linnen and hopes to grow fat by coyning new faſhions. And thus I leave her ſtitching till her thred
+<pb facs="tcp:183716:49"/>be cut, that ſome yonger of her faculty may trade in her turne.</p>
+            </div>
+            <div n="24" type="character">
+               <head>
+                  <hi>24.</hi> A Prostitute or Common Whore,</head>
+               <p>IS a Creature in the forme and ſhape of our mother <hi>Eve,</hi> but of farre more im<g ref="char:EOLhyphen"/>pudency, for as <hi>Eve</hi> deſired to hide her nakedneſſe, this covets to diſcover it, making a Trade of luſt, and a paſtime of incontinence. A painted <hi>Ieſabell</hi> peeping out at her polluted windowes, with a nod or beckon to allure the
+<pb facs="tcp:183716:49"/>ſimple; and ſhameleſly ſalu<g ref="char:EOLhyphen"/>ting thoſe ſhe ne're ſaw; and may be compar'd to a Jakes, which every rogue uſeth for neceſſity, and then abhorres it. She is the very Compen<g ref="char:EOLhyphen"/>dium and abſtract of al baſe<g ref="char:EOLhyphen"/>neſſe, nor is there any abo<g ref="char:EOLhyphen"/>mination to which ſhe is un<g ref="char:EOLhyphen"/>apt. She is hell it ſelfe whilſt ſhe lives upon earth, and her fire burnes as hot as Etna; to whoſe flames none can ap<g ref="char:EOLhyphen"/>proach without either ſcor<g ref="char:EOLhyphen"/>ching or conſuming. And (which is inexcuſable and inexpiable) ſhe makes a cal<g ref="char:EOLhyphen"/>ling of accurſed Copulation, and juſtifies it lawfull for her lively hood. She is both
+<pb facs="tcp:183716:50"/>menſtruous and mercenary: Luſt and Murther are her profeſſions, and ſhe cares not who knowes it. Her veynes are fill'd with ſeverall ſorts of poyſons, which ſwell till they burſt out into ſome loathſome excrement; and then, all that know her, hate her; and all that luſted after her, now loath her. As ſhee is an actor of any miſchiefe, ſo, at laſt, ſhee becomes the Embleme of moſt extreame miſery, who with halfe a noſe, and one eye, is making her fatall end, and is happy if her torment end here.</p>
+            </div>
+            <div n="25" type="character">
+               <pb facs="tcp:183716:50"/>
+               <head>
+                  <hi>25.</hi> An ordinary Gameſter.</head>
+               <p>IS one that hath uſed many tricks and devices to picke up a baſe living, but finds no deceit ſo faire, quaint, and gentle as this ſlight of hand, this nimble god Mercury, this cunning trip of a Dye. Hee is never idle, nor ever well imployed for he is ſtill thinking, plotting, and de<g ref="char:EOLhyphen"/>viſing to find out ſome foole to coozen. He is more cove<g ref="char:EOLhyphen"/>tous than any Uſurer, for he deſires but his principal with certaine intereſt, but this
+<pb facs="tcp:183716:51"/>Youth cries. Have at all; and is perpetually ſhuffling and cutting for advantage. He is ſomewhat too prodigall of other mens purſes, eſpecially in his habit, which is com<g ref="char:EOLhyphen"/>monly neat, if not brave and gallant; for his cloathes are his greateſt ſtocke, of which he ought to have foure ſuits, two to weare, and two to pawne. The firſt makes him fit for his betters ſociety; the ſecond, for ſupply to his game, if he cha<g ref="char:cmbAbbrStroke">̄</g>ce to be ſpent: yet hee is very ſeldome but on the gaining hand, eſpeci<g ref="char:EOLhyphen"/>ally when hee meets with ſome profuſe yong Prentice, or ſome yong Innes a Court
+<pb facs="tcp:183716:51"/>Man that hath lately recei<g ref="char:EOLhyphen"/>ved his quarteridge, for by theſe devices hee dives into the pockets of the diſſolute, and as he gets it from fooles, ſo he ſpends it on Queanes. Curſing, ſwearing, and quar<g ref="char:EOLhyphen"/>rellings, are his Nocturnall attendance, which ariſe from Choller, and the loſſe of Coyne, mixed with want of ſleepe. Hee prepoſterouſly alters the courſe of Nature, as he alters the Cards, ſleeps all day, and playes all night, onely hee will ſpare ſome time to eat and drink drunk upon a lucky hand, ſo that he hath no leaſure to pray, ex<g ref="char:EOLhyphen"/>cept to blind fortune. He ne<g ref="char:EOLhyphen"/>ver
+<pb facs="tcp:183716:52"/>thinkes on his ſinnes, till he hath loſt all his ſubſtance, and then (if he hath but grace a little to pauſe on them) they flock ſo faſt from his memo<g ref="char:EOLhyphen"/>ry to his minde, that he can<g ref="char:EOLhyphen"/>not endure their grim looks, and therfore chops them and his Dice together into his Box, and cries, Hang ſorrow, care will kill a Cat. He is one that ſeldome thrives in his By-path to his end, but his goddeſſe Fortune, at laſt; playes the whore with him, and leaves him in his great<g ref="char:EOLhyphen"/>eſt extremity: And when he hath neither to pawne nor ſell, hee is forc'd to borrow twelve pence to pay for his
+<pb facs="tcp:183716:52"/>Ordinary, and ſometimes lyes a weeke together at the mercy of the Ordinary. He ebbes and flowes as the tyde, and nothing makes him hope any good of himſelfe, but his daily change, which perhaps may put him in mind of his laſt, that death may not catch him dicing, at hazzard, nor Time (whom he hath much abuſed) in fury breake his houre glaſſe, and ſo juſtly by Cataſtrophe coozen him without care, that hath chea<g ref="char:EOLhyphen"/>ted ſo many without Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            </div>
+            <div n="26" type="character">
+               <pb facs="tcp:183716:53"/>
+               <head>
+                  <hi>26.</hi> An Hoſt,</head>
+               <p>IS moſt commonly a Cor<g ref="char:EOLhyphen"/>pulent fellow, ſo puft up with the unctious Element of Ale, that his wicket is not wide enough for his paſſage, and therefore his gates are daily open, leſt they ſhould prejudice his guts. His chie<g ref="char:EOLhyphen"/>feſt livelihood is by the commings in of others, and not of his own. He is as gree<g ref="char:EOLhyphen"/>dy of gueſts, as the Devill of ſoules, and as loath to part with them; which makes him ſo often goe gaping to
+<pb facs="tcp:183716:53"/>the Gate, with a Tapſter or Oaſtler in's mouth, gaping for new gueſts. His thred<g ref="char:EOLhyphen"/>bare Salutation is alwayes welcome Gentlemen, which very words do winde in the Tapſter, and conſequently a frothy Jugge; and it's ten to one, but ere you have ended that, hee is entred into ſome ſtrange tale, perhaps colle<g ref="char:EOLhyphen"/>cted out of his laſt nights dreame, and as true too, for herein conſiſts his beſt facul<g ref="char:EOLhyphen"/>ty, in miniſtring cauſe of mirth and newes to his wea<g ref="char:EOLhyphen"/>ry and welcome Travellers, (things to which he knowes mans Nature is much addi<g ref="char:EOLhyphen"/>cted) for he reads more men
+<pb facs="tcp:183716:54"/>than Bookes, and ſhould be wiſe, but that his head's too little for his body: yet if he catch your horſe in arrera<g ref="char:EOLunhyphen"/>ges, you'll find him cunning enough, for hee'll raiſe his Creſt ſo hye, that he'll mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the doore too little for him<g ref="char:punc">▪</g> He is a great husband in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drinking, for hee is neve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drunk at his own coſt, which makes my Oſteſſe bear with the beſtowers the better, and perhaps may requite them with a nights lodging for in a time of need. He cannot ſubſiſt without company tho he be Cuckold for't, and is never melancholly but when Gallants paſſe by his
+<pb facs="tcp:183716:54"/>gates without tarrying, or tarry till he is forc'd to truſt them; and then he mournes i'th Chine for a moneth af<g ref="char:EOLhyphen"/>ter. His greateſt trouble is, that Phyſitians tell him, he is ſubject to the Dropſie, which he will not beleeve till hee ſees it, and then he and his purſe are purged together of ſome of their ſiniſter and ſuperfluous gaine. Drunken<g ref="char:EOLhyphen"/>neſſe and gluttony are his beſt gueſts, of which hee is both entertainer and parta<g ref="char:EOLhyphen"/>ker; &amp; grows fat by profuſe<g ref="char:EOLhyphen"/>nes, &amp; rich by riotous revel<g ref="char:EOLhyphen"/>lings, which tho it ſomtimes diſturbs the peace of his lit<g ref="char:EOLhyphen"/>tle common-wealth, yet the
+<pb facs="tcp:183716:55"/>payment of the reckoning workes his pacification, with an (all's well that ends well) His trade cannot faile ſo long as men have mouthes and mony, which he knows will be till both his leaſe and hee expire. He is a man of little or no faith, the cauſe hee doubts his ſalvation, yet be<g ref="char:EOLhyphen"/>zils up and downe, till hee waddles into his winding-ſheet, and then goes a journy he knowes not whither; and it is wel for him, if at the end of his travell, hee findes an Inne not worſe than his owne.</p>
+            </div>
+            <div n="27" type="character">
+               <pb facs="tcp:183716:55"/>
+               <head>
+                  <hi>27</hi> A common Drunkard,</head>
+               <p>IS a reaſonable beaſt, and a ſenſitive man: a ſtrange Monſter, halfe man, halfe beaſt, ſwimming in the Oce<g ref="char:EOLhyphen"/>an of <hi>Bacchus,</hi> and like the Whale belching and foming out of his mouth and no<g ref="char:EOLhyphen"/>ſtrils abundance of that fro<g ref="char:EOLhyphen"/>thy and unſavoury Element he ſo lately ingurgitated and ſwallowed, to the amaze<g ref="char:EOLhyphen"/>ment of thoſe ſmaller fiſhes that flocke together about him, and is drowned in his owne orbe. One whoſe eſ<g ref="char:EOLhyphen"/>ſential
+<pb facs="tcp:183716:56"/>parts are ſo obſcured, his ſenſe ſo dulled, his eyes ſo dazeled, his face ſo diſtor<g ref="char:EOLhyphen"/>ted, his Countenance ſo de<g ref="char:EOLhyphen"/>formed, his joynts ſo enfee<g ref="char:EOLhyphen"/>bled, and his whole body and mind ſo transformed, that he is become the childe of folly, the deriſion of the world, and is led like the Oxe to the ſlaughter, as his owne executioner; yet in all this, his head beares the greater ſway, and his feet are not ſwift to do miſchief. His belly is his god, the which he over-cloyes with drink-offerings, and he is al<g ref="char:EOLhyphen"/>wayes indebted to my O<g ref="char:EOLhyphen"/>ſteſſe, and his belly to him,
+<pb facs="tcp:183716:56"/>but he never to that, ſo long as his Purſe, Credit, or ſhame can make even with it. He is one that either ſpues him<g ref="char:EOLhyphen"/>ſelfe out, or gives occaſion to be ſpurn'd out of all civill company. Apt to any thing he can ſtand to execute (ex<g ref="char:EOLhyphen"/>cept Vertue) a meere ſtran<g ref="char:EOLhyphen"/>ger to him. Noddy is his u<g ref="char:EOLhyphen"/>ſuall game, and for Ale too; till hee growes ſo ſtunified, that he nods his Noſe upon the Noddy-boord, and in re<g ref="char:EOLhyphen"/>venge ſtrikes his oppoſite for the wrong offered, and there the game ends, and fray be<g ref="char:EOLhyphen"/>gins, and then cals for drinke to drinke himſelfe friends with them, which friendly
+<pb facs="tcp:183716:57"/>cup gives occaſion of a ſe<g ref="char:EOLhyphen"/>cond quarrell. Hee is the Mault-worme of the Com<g ref="char:EOLhyphen"/>mon-wealth, that ſuckes in the juyce of the poore labo<g ref="char:EOLhyphen"/>rer, and leaves his owne fa<g ref="char:EOLhyphen"/>mily ſo dry, that they are ei<g ref="char:EOLhyphen"/>ther parcht with famine, or burnt with thirſt. In briefe, hee is the off-ſcumme of the kingdome, and fit for nought but to ſet in the front of ſome vaine and voluntary voyage, leſt he ſhould runne away in the Rere, and rob his owne pariſh for ever after.</p>
+            </div>
+            <div n="28" type="character">
+               <pb facs="tcp:183716:57"/>
+               <head>
+                  <hi>28</hi> An Elder Brother,</head>
+               <p>IS oft times the heire of Fortune, and folly, both together, and will ſtill main<g ref="char:EOLhyphen"/>taine the Proverbe, <hi>Fortuna favet fatuos:</hi> and as hee is heire, ſo is he often executor to his fathers ill husbandry, which ſometimes gripes him ſo, that it grindes his eſtate into a ſmaller quantity, to the diminiſhing of the Man<g ref="char:EOLhyphen"/>nor, with the apurtenances. Hee is ſo incumbred with ſuch a Letany of Legacies for the ſmaller Infants, that
+<pb facs="tcp:183716:58"/>his wit is almoſt confounded with the very Catalogue of their names, if not wholly diſtracted in the diſcharge of their portions; for his braine generally is but ſhallow, and conſequently is ſoone emp<g ref="char:EOLhyphen"/>ty, &amp; as ſoone runs over. He is not given to travell (the Ambition of ſharper wits) for he is in perpetuall travell at home, whoſe ſtaidneſſe his Low-Country brother takes advantage of, by ſtrong ſtra<g ref="char:EOLhyphen"/>tagems and deſignes of war, till (beſides his Legacy) he hath angled himſelfe into coyne enough to purchaſe him a Company, which hee diſſolves into Dutch Ale,
+<pb facs="tcp:183716:58"/>and dries it up with more dul Tobacco. His Lady with her Coach, have run them<g ref="char:EOLhyphen"/>ſelves out of their way, her out of wits, and him out of his mony, to uphold her fan<g ref="char:EOLhyphen"/>cy, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the new faſhion both together, till the Mercer for his money gathers into his eſtate by morgage; which, he is as well able to redeem, as to build <hi>Pauls,</hi> or rule his wife. His ambition is ſtill to raiſe his houſe, though he ſels his land, and live upon the Leaſe at the rate of the Purcha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. Hee ſometimes hath wit or wealth enough to bee made a Juſtice for the Peace, where his lookes be<g ref="char:EOLhyphen"/>wray
+<pb facs="tcp:183716:59"/>his learning, and hee never ſpeakes, but to ſome or no purpoſe.</p>
+               <p>The Fates in Mercy made ſuch for the reliefe of youn<g ref="char:EOLhyphen"/>ger <hi>Mercuries;</hi> and they make the beſt living and worſt uſe on't. And thus I leave him, that often leaves many behinde him to the Tyranny of Fortune, whileſt hee is ſtudying his Pedigree.</p>
+            </div>
+            <div n="29" type="character">
+               <pb facs="tcp:183716:59"/>
+               <head>
+                  <hi>29.</hi> A yong Innes a Court Gen<g ref="char:EOLhyphen"/>tleman.</head>
+               <p>IS an Infant, newly crept from the Cradle of lear<g ref="char:EOLhyphen"/>ning, to the Court of liber<g ref="char:EOLhyphen"/>ty, from logicke to law (both grounded on reaſon) from his Tutor to the Touchſtone of wits, where he is now ad<g ref="char:EOLhyphen"/>mitted amongſt the brave imps of the Kingdome, to grow Pillars of their Coun<g ref="char:EOLhyphen"/>trey. Hee is his owne man now, and left to the view of faire vertue, and foule vice, the laſt of which layes ſiege
+<pb facs="tcp:183716:60"/>to his tender Wals, and of<g ref="char:EOLhyphen"/>ten makes a ſhrewd Battery, if not quite ſcales it. He is one that for the moſt part forgets his errand, and ſtu<g ref="char:EOLhyphen"/>dies Poetry in ſtead of <hi>Per<g ref="char:EOLhyphen"/>kins.</hi> His greateſt care now, is how to carry himſelfe ac<g ref="char:EOLhyphen"/>cording to the Dancing Art, and holds it a greater diſ<g ref="char:EOLhyphen"/>grace to be Nonſuit with a Lady, than Nonplus in the Law. He tramples upon the Termes oft, and holds it a baſe language, about which to buſie his more high and tranſcende<g ref="char:cmbAbbrStroke">̄</g>t thoughts. When he aſpires once to be a Re<g ref="char:EOLhyphen"/>veller, he then reveales him<g ref="char:EOLhyphen"/>ſelfe to the full, and when he
+<pb facs="tcp:183716:60"/>ſhould bee mooting in the Hall, he is perhaps mounting in the Chamber, as if his fa<g ref="char:EOLhyphen"/>ther had onely ſent him to cut Capers, and turne in the Ayre till his braines be ad<g ref="char:EOLhyphen"/>led, and makes things meer<g ref="char:EOLhyphen"/>ly for ornament, matters of ſpeciall uſe. His Recreations and looſe expence of time, are his only ſtudies (as Plaies Dancing, Fencing, Taverns, Tobacco) and Dalliance, (which if it be with Time, is irrevocable) and are the al<g ref="char:EOLhyphen"/>luring baits of ill diſpoſed extravagants. He is roaring when he ſhould be reading, and feaſting when he ſhould bee faſting, for his Friday-night
+<pb facs="tcp:183716:61"/>ſupper doth uſually e<g ref="char:EOLhyphen"/>qualize his weekely Com<g ref="char:EOLhyphen"/>mons, and it's to be feared, he will exceed two meals in the weeke beſides, with lac't Mutton, for whoſoe're payes for his Commons, hee'll fall aboord. He is a youth very apt to bee wrought upon at his firſt entrance, and there are Fiſhers of purpoſe for ſuch yong fry. He atchieves much experience before he arrives at the Barre, and then (if ever) begins to ſtudy, when (for his time) he ſhould begin to plead. Amorous Sonnets, warbled to the Vy<g ref="char:EOLhyphen"/>oll, are his Coeleſtiall Har<g ref="char:EOLhyphen"/>mony, and if you put a Caſe
+<pb facs="tcp:183716:61"/>betweene, you make a great diſcord. Hee loves ſenſe bet<g ref="char:EOLhyphen"/>tert than reaſon, and conſe<g ref="char:EOLhyphen"/>quently not ſo fit to make a Lawyer. Wherefore I could wiſh his friends to cauſe him to retire, before hee be too farre ſpent, and to marry him before he be ſtarke mad, or a worſe miſchiefe (if poſſi<g ref="char:EOLhyphen"/>ble) befall him.</p>
+            </div>
+            <div n="30" type="character">
+               <head>
+                  <hi>30.</hi> A Low-Countrey Common Souldier.</head>
+               <p>IS an idle fellow, as weary of his owne Countrey, as that is of him; and leſt hee
+<pb facs="tcp:183716:62"/>ſhould be preſt ſome worſer Voyage, goes voluntary thi<g ref="char:EOLhyphen"/>ther to avoid it. One that hath tired al his friends here, and is now tranſported thi<g ref="char:EOLhyphen"/>ther to trouble the Boares there, where hee is now ad<g ref="char:EOLhyphen"/>mitted amongſt a multitude of miſchievous fellowes, to learne all his poſtures; the firſt of which, is to double his Dutch Canne till his Tongue doubles betweene his teeth, and then to fall out till hee be beaten into a ſtomacke. And when that ſmall quantity of coyne hee carried with him, is exhau<g ref="char:EOLhyphen"/>ſted, he ſimply ſettles him<g ref="char:EOLhyphen"/>ſelfe to foure ſhillings for
+<pb facs="tcp:183716:62"/>eight dayes, which he poli<g ref="char:EOLhyphen"/>tikely poures down his gul<g ref="char:EOLhyphen"/>let in a day, and then lives by Virginian vapour a weeke after, till his ſtomacke ſo wambles, that hee is forc'd to lumber his upper Gar<g ref="char:EOLhyphen"/>ment to ſupply his guts, re<g ref="char:EOLhyphen"/>ſerving ſtill the Embleme of a Souldier (his Sword) and a Plimmouth Cloake, other<g ref="char:EOLhyphen"/>wiſe call'd a Battoone. By this time hee is well entred, and will madly ſtrike upon the leaſt occaſion, which his School-fellows perceiving, grow as mild now, as here<g ref="char:EOLhyphen"/>tofore they were malapert; and will rather intreat him to drinke away his Choller
+<pb facs="tcp:183716:63"/>or belt, than force him to the field. He is now growne to that height of valour, that he runs over a Dutch Froken, or elſe fals fowle upon her, to the endangering of her firkin of Butter, and more ſolid Cheeſe, with no ſmall effuſi<g ref="char:EOLhyphen"/>on of teares from her fatter Ale-tub. Theſe, with many other poſtures, hee hath at<g ref="char:EOLhyphen"/>chieved too by Stratagem, and thinkes himſelfe a Serje<g ref="char:EOLhyphen"/>ant Major in theſe deſignes. As for his Pike &amp; Musket, he ſeldome troubles the<g ref="char:cmbAbbrStroke">̄</g>, except ſometimes upon meer com<g ref="char:EOLhyphen"/>pulſion to fill up a Compa<g ref="char:EOLhyphen"/>ny. Halfe a year hath ſo qua<g ref="char:EOLhyphen"/>lified him, that for want of
+<pb facs="tcp:183716:63"/>ſupply, he begges for a Fur<g ref="char:EOLhyphen"/>low, and then legs with it, till hee arrives at his owne Shore, with two hempteere napkins pin'd together at his ſhoulders for a ſhirt, or elſe none at all. Thus having ſpent his ſpirits, he penſively creepes home with many creepers about him: where, having gathred up his crums, tels ſuch loud ſtories of the leagers he lay in, &amp; diſcour<g ref="char:EOLhyphen"/>ſes ſo ſuperficially of the di<g ref="char:EOLhyphen"/>ſcipline of Warre, that hee amazeth ſome Countrey Traine-Captaine, inſomuch that hee courteouſly takes him to the Alehouſe, and gives him a Colours for't,
+<pb facs="tcp:183716:64"/>which he gratefully acceps, and vowes hereafter rather to bee hang'd in his owne Countrey, than to be abus'd by Belgicke Counterbuffes. And though he hath not yet left his ſwearing, yet hee hates lying <hi>Per dieu</hi> abomi<g ref="char:EOLhyphen"/>nably. And hath gain'd ſo much wit there, that hee thinkes the name of a Soul<g ref="char:EOLhyphen"/>dier makes a man valiant, ra<g ref="char:EOLhyphen"/>ther than valour makes him a Souldier, which he hath al<g ref="char:EOLhyphen"/>ready forſworne.</p>
+            </div>
+            <div n="31" type="character">
+               <pb facs="tcp:183716:64"/>
+               <head>
+                  <hi>31.</hi> A Gentleman-uſher,</head>
+               <p>IS a ſpruce fellow, belong<g ref="char:EOLhyphen"/>ing to a gay Lady, whoſe foot ſtep, in times of Yore, his Lady followed, for hee went before. But now he is grown ſo familiar with her, that they goe arme in arme, the cauſe ſometimes that he ſleights the Gentlewoman, and yet, upon better advice, pleaſeth her againe in ſecret. Hee is a man whoſe goings and ſtandings ought to bee upright, except his Lady be crooked, and then 'tis no
+<pb facs="tcp:183716:65"/>matter though hee ſtoope a little to pleaſe her humour. His greateſt vexation is go<g ref="char:EOLhyphen"/>ing upon ſleeveleſſe errands, to know whether ſome Lady ſlept well laſt night, or how her Phyſick work'd i'th'mor<g ref="char:EOLhyphen"/>ning, things that ſavour not well with him; the reaſon that oft times hee goes but to the next Taverne, and then very diſcreetly brings her home a tale of a Tubbe. His is ſtill forc'd to ſtand bare, which would urge him to impatience, but for the hope of being covered, or rather the delight hee takes in ſhewing his new Criſp't hayre, which his Barber
+<pb facs="tcp:183716:65"/>hath caus'd to ſtand like a print hedge, in equall pro<g ref="char:EOLhyphen"/>portion. He hath one Com<g ref="char:EOLhyphen"/>mendation amongſt the reſt, A neat Carver) and vvill quaintly adminiſter a Tren<g ref="char:EOLhyphen"/>cher in due ſeaſon. His wa<g ref="char:EOLhyphen"/>ges is not much, except his quality exceeds, but his vailes are great; inſomuch that he totally poſſeſſeth the Gentlewoman, and com<g ref="char:EOLhyphen"/>mands the Chambermaid to ſtarch him into the bargaine. The ſmalneſſe of his legs be<g ref="char:EOLhyphen"/>wrayes his profeſſion, and feeds much upon Veale, to increaſe his Calfe. His grea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt eaſe is, he may lye long in bed, and when hee's up,
+<pb facs="tcp:183716:66"/>may call for his breake-faſt, and goe without it. A Twelve-moneth hath al<g ref="char:EOLhyphen"/>moſt worne out his habit, which his annuall penſion will ſcarcely ſupply. Yet if his Lady likes the carriage of him, ſhee increaſeth his Annuity. And though ſhee ſaves it out o'th'Kitchin, ſhe'l fill up her Cloſet.</p>
+            </div>
+            <div n="32" type="character">
+               <head>
+                  <hi>32.</hi> A Cuckold,</head>
+               <p>IS a harmleſſe horned crea<g ref="char:EOLhyphen"/>ture, but they hang not in his eyes, as your Wittals do
+<pb facs="tcp:183716:66"/>the reaſon of his honeſty and th'others knavery. He confi<g ref="char:EOLhyphen"/>dently gleans after the rea<g ref="char:EOLhyphen"/>pers, not thinking of ſtea<g ref="char:EOLhyphen"/>ling, and kindly embraceth the leavings of his neigh<g ref="char:EOLhyphen"/>bors, and is aſwel ſatisfied as if he had the firſt cut, verify<g ref="char:EOLhyphen"/>ing the old Proverbe, That the eye ſees not, the heart grieves not He is very in<g ref="char:EOLhyphen"/>dulgent to his ſpouſe, giving her her own way in al things leſt ſhe ſhould take it; know<g ref="char:EOLhyphen"/>ing that women are moſt apt to forbidden fruit. There is a ſpeciall Sympathy, by in<g ref="char:EOLhyphen"/>ſtinct, betwixt him and his Corrivall or Cuckolder, for he alwaies loves him beſt, his
+<pb facs="tcp:183716:67"/>wife likes beſt (a ſpeciall to<g ref="char:EOLhyphen"/>ken of a patient and true huſ<g ref="char:EOLhyphen"/>band.) Hee never grieves at his keeping of other mens children, for he is very cha<g ref="char:EOLhyphen"/>ritable that way; and (being fill'd with blind zeale) loves them aſwell as if they were his owne. Hee palpably poſ<g ref="char:EOLhyphen"/>ſeſſeth his place in his Pew, without the leaſt conceit of pointing at him, and wel<g ref="char:EOLhyphen"/>comes him to dinner that is i'th'diſh before him, which his wife paſſeth by without bluſhing, praying the Gen<g ref="char:EOLhyphen"/>tleman to be his owne Car<g ref="char:EOLhyphen"/>ver, whilſt the ſilly man nere dreames of her intent, after his deceaſe, or his then de<g ref="char:EOLhyphen"/>parture.
+<pb facs="tcp:183716:67"/>He lives a very con<g ref="char:EOLhyphen"/>tented life, and is not trou<g ref="char:EOLhyphen"/>bled with Jealouſie (the tor<g ref="char:EOLhyphen"/>ment of the mind) but takes all in good part, ſo ſhee bee pleaſed. He ſpends his time thus till hee becomes one of the head-broughs of his Pa<g ref="char:EOLhyphen"/>riſh, and holds his Velvet hornes as high as the beſt of them, he minds his owne af<g ref="char:EOLhyphen"/>faires more than his wives a<g ref="char:EOLhyphen"/>ctions; and if he dyes not a Pricket, hee may live to bee an old Stagge, a very Lordly beaſt.</p>
+            </div>
+            <div n="33" type="character">
+               <pb facs="tcp:183716:68"/>
+               <head>
+                  <hi>33.</hi> An Informer,</head>
+               <p>IS a ſpye or Knave errant, that peepes into the brea<g ref="char:EOLhyphen"/>ches of penall Statues, not for love to the Common<g ref="char:EOLhyphen"/>wealth, as his owne lucre, a<g ref="char:EOLunhyphen"/>mongſt which <hi>Aſsiſa panis &amp; cervitia,</hi> th'aſſize of Bread and beer are his greateſt Re<g ref="char:EOLhyphen"/>venues, for winking at ſmall faults, and coozening the King and Subjects both at once: for though the pre<g ref="char:EOLhyphen"/>tence of his profeſſion be for the fulfilling of the Statutes yet his Roguiſh myſtery
+<pb facs="tcp:183716:68"/>aymes at his ovvne ends. He transformes himſelfe into ſeverall ſhapes to avoyd ſu<g ref="char:EOLhyphen"/>ſpition of Inn-holders, and invvardly joyes at the ſight of a black Pot or Iugge, knovving that their ſale by ſealed quarts, ſpoiles his Market, and abates his mer<g ref="char:EOLhyphen"/>cinary Coozenage. As he is an Informer, ſo he ſhould be a Reformer, but for his quarterly fees from Tap<g ref="char:EOLhyphen"/>houſes, for connivance; vvhich fees, are the cauſe of ſo much froth in the Tapſter to recover that againe of vvhich he vvas cheated. He ſneakes like a Serjeant into every corner to take advan<g ref="char:EOLhyphen"/>tage,
+<pb facs="tcp:183716:69"/>and drinkes up mens drinke, and makes them pay for it. As hee loves no man, ſo he is hated of all, and is very neere hell when hee is drunke in the Celler. Hee is the ſcum of Raſcality, and the abuſer of the King and his Exchequer both toge<g ref="char:EOLhyphen"/>ther; yet he ſeldome thrives in his impoſtures, in regard of his greater ſharers, whoſe vaſſall and ſlave hee is. All men behold him with indig<g ref="char:EOLhyphen"/>nation, and point him out knave in every Pariſh, which he willingly puts up, in hope, one day, to avenge himſelfe upon their purſes. His gaine is extortion, which may in
+<pb facs="tcp:183716:69"/>time pul both his eares from his head, or dig him a grave under the Gallowes, which he hath already deſerved.</p>
+            </div>
+            <div n="34" type="character">
+               <head>
+                  <hi>34.</hi> A Batchelour.</head>
+               <p>IS one that carries a great burthen about him, Con<g ref="char:EOLhyphen"/>cupiſence; to which he is either given over, or in per<g ref="char:EOLhyphen"/>petuall combate betwixt the fleſh and the ſpirit; He is ne<g ref="char:EOLhyphen"/>ver quiet in his minde, for he is continually chuſing, and commonly aſſoone diſlikes his owne choyce: a great point of folly in him to be
+<pb facs="tcp:183716:70"/>provok't to any thing either by opinion or purblind Paſ<g ref="char:EOLhyphen"/>ſion. He is one whoſe hone<g ref="char:EOLhyphen"/>ſty cannot ſhelter him from ſuſpition, and imputation of his next neighbour, by rea<g ref="char:EOLhyphen"/>ſon of his ſuppoſed vigour. Hee dreames away his beſt time, and ſowes his ſeed in other mens gardens, (which they reape and are no gai<g ref="char:EOLhyphen"/>ners by it) whileſt hee hath ſcarce any left to ſow in his owne. Hee thinks himſelfe happie in that he hath none to care for but himſelf, whi<g ref="char:EOLhyphen"/>leſt he cares not at all for his Nobler ſelfe, his Soule, and dyes without Vine to his houſe ſide, or an Olive plant
+<pb facs="tcp:183716:70"/>to his Table, ſo that poſteri<g ref="char:EOLhyphen"/>ty ſhal not behold any of his Progeny. Hee courts each handſome object, his veines being full of <hi>Venus,</hi> and his heart of <hi>Cupids</hi> darts, which in ſhort time ſo ſting him, that happily ere long, he ſa<g ref="char:EOLhyphen"/>lutes <hi>Hymen,</hi> and proves an honeſt man: for the obtai<g ref="char:EOLhyphen"/>ning whereof in his former eſtate he was far out of his way, except made an Eu<g ref="char:EOLhyphen"/>nuch, and conſequently been hated by the ſofter Sex for ever after.</p>
+            </div>
+            <div n="35" type="character">
+               <pb facs="tcp:183716:71"/>
+               <head>
+                  <hi>35</hi> An under-Sheriffe.</head>
+               <p>IS an active fellow, begot by the Statute for a yeere, and then his Name extingui<g ref="char:EOLhyphen"/>ſheth, though he be ſharer in anothers, the next yeere af<g ref="char:EOLhyphen"/>ter. He is the feare and ter<g ref="char:EOLhyphen"/>ror of all debtors, as alſo the free entertainer of the Cre<g ref="char:EOLhyphen"/>ditour, who daily ſolicites him with coyne, to be expe<g ref="char:EOLhyphen"/>ditious in his Catching, which hee diſcreetly enter<g ref="char:EOLhyphen"/>taines with proteſtation of performance, whilſt a fee on the contrary forceth him to
+<pb facs="tcp:183716:71"/>neglect, knowing that though delaies prove dangerous, yet all makes for his advantage in the end. He is the birth, life, and death of the Law. The birth is the firſt pro<g ref="char:EOLhyphen"/>ceſſe; the life the execution, and the death the ſtopping the breath of the execution, by giving notice to thoſe that never requite him with nothing. Hee is one ſubject to much danger, and ought to have both wit and valour, the one to defend his purſe, the other his carkaſſe, leſt the Exchequer cut the one, and the Countrey Rebel the other. He underſtands more than the high Sheriffe his
+<pb facs="tcp:183716:72"/>Maſter, and may vvell, for he buyes his wit of him (which is ever the beſt) and ſells it again at a treble value, pro<g ref="char:EOLhyphen"/>ving a great gainer, if his <hi>Quietus est</hi> doth not too much gripe him. He is out<g ref="char:EOLhyphen"/>vvardly reſpected more for feare than love, and as little eſteemed vvhen he is out of his office, vvhich vvill be next Michaelmas Terme, and then you may trade vvith him for ten groats (an Attourneys fee) his Col<g ref="char:EOLhyphen"/>laterall profeſſion.</p>
+            </div>
+            <div n="36" type="character">
+               <pb facs="tcp:183716:72"/>
+               <head>
+                  <hi>36.</hi> A Drawer.</head>
+               <p>IS one deepely read in the myſteries of the Celler, diving into the ſecrets of Hogſheads, and is much con<g ref="char:EOLhyphen"/>verſant in the mingling of his ware. Hee is of ſuch celerity, that hee aſcends the Staires in a moment, and deſcends them as ſud<g ref="char:EOLhyphen"/>denly, eſpecially when hee is throwne downe He is one that truſts all commers (for he onely cryes ſcore it) but hee truſts them no further than he ſees them, and when
+<pb facs="tcp:183716:73"/>their braines and bellies are full, hee lookes they ſhould empty their purſes. Hee is ſubject to many ill words, which he as patiently bears, as they are like to doe his blowes, if they want the Reckoning. Hee ſhould be very wiſe by the continuall ſight of ſo many ſeverall hu<g ref="char:EOLhyphen"/>mours, and would be ſo, but for the fumigation of the Celler, which elevates his wits, and makes them fly ſo high, that they ſometimes catch a fall. He is alwayes a good fellow, and loves a Gentleman, for that hee is ſometimes one himſelfe. He drinks the beſt drink, which
+<pb facs="tcp:183716:73"/>breeds the beſt blood, the cauſe hee commonly loves a Wench, for hee is a man of great trading. I cannot tell whether his Maſter ſerves him, or he his Maſter, but I am ſure they cannot wel live aſunder. Hee is now caſting about for ſome Merchants Credite, to ſet up for him<g ref="char:EOLhyphen"/>ſelfe, that his wife may keep the Barre, to attract Cu<g ref="char:EOLhyphen"/>ſtome, and he leave his jour<g ref="char:EOLhyphen"/>ney-worke, and become as free to her, as ſhee may bee to others.</p>
+            </div>
+            <div n="37" type="character">
+               <pb facs="tcp:183716:74"/>
+               <head>
+                  <hi>37.</hi> A good Husband,</head>
+               <p>IS a man who ſteeres all his courſe in a right line, and weighes all his actions in an equall ballance; a very good Mathematician, for hee is alwayes within his Com<g ref="char:EOLhyphen"/>paſſe, but never runs circle ſo long as to make himſelfe giddy. Hee cuts out every into a Geometricall proportion to this Rule and eſtate; nor doth his Senſe too much over-rule his Rea<g ref="char:EOLhyphen"/>ſon. Hee drinkes onely for thirſt, and eats only for hun<g ref="char:EOLhyphen"/>ger,
+<pb facs="tcp:183716:74"/>knowing ſuperfluity to be the heyre of prodigality, and liberality the daughter of good husbandry, and Me<g ref="char:EOLhyphen"/>dium betwixt two ex<g ref="char:EOLhyphen"/>treames. He is the ſole hap<g ref="char:EOLhyphen"/>pineſſe of a good wife, and the torment of a Waſter. His children never live to have cauſe to curſe him, nor his ſervants to accuſe him for their want of wages. He ſeriouſly viewes the folly of Profuſeneſſe, and is inward<g ref="char:EOLhyphen"/>ly ſorry to ſee the fall of any. He is not ſo niggardly as to grudge himſelf or his friend a good meale, but taſts free<g ref="char:EOLhyphen"/>ly (though temperately) of that God hath lent him, and
+<pb facs="tcp:183716:75"/>thinkes himſelfe no loſer by lending a little to the needy. His moderate diet gives him longer dayes, and his care in his calling frees him fro<g ref="char:cmbAbbrStroke">̄</g> idle<g ref="char:EOLhyphen"/>neſſe (the bait of his greateſt enemy) for in doing nothing men learne to do ill. Hee loves not ſtolne waters, (though ne're ſo ſweet) but is ſatisfied with the breſts of his owne bedfellow. Hee educates his children in a Grace cannot want goods. And thus hee paſſeth his pil<g ref="char:EOLhyphen"/>grimage with a peacefull Conſcience, and leaves the world with all goods mens applauſe, ſo that his name
+<pb facs="tcp:183716:75"/>dyes not with his nature. His tything in his life time was ſo true and conſciona<g ref="char:EOLhyphen"/>ble, that the Parſon prea<g ref="char:EOLhyphen"/>cheth his Funeral praiſe, and perhaps gives him <hi>gratis</hi> his buriall in the Chancell.</p>
+            </div>
+            <div n="38" type="character">
+               <head>
+                  <hi>38.</hi> A Conſtant man.</head>
+               <p>IS one who hath limitted his Paſſions, and ſet cer<g ref="char:EOLhyphen"/>taine bounds to his affecti<g ref="char:EOLhyphen"/>ons, loving ſtill in his courſe to hold the bridle firme in his hand, leſt careleſly letting the reines looſe, hee either ſtumbles dangerouſly, or fals
+<pb facs="tcp:183716:76"/>very foule. His actions are ſolid, not phantaſtike, and he is very wary of promiſing a<g ref="char:EOLhyphen"/>ny thing that he either thinks or knowes hee cannot per<g ref="char:EOLhyphen"/>forme; for hee ſtill caſts be<g ref="char:EOLhyphen"/>yond chance, knowing a poſ<g ref="char:EOLhyphen"/>ſibility, and ſeeing a proba<g ref="char:EOLhyphen"/>bility before he paſſeth his proteſtation. Hee is one that keepes his mind within him, the reaſon why he thinks and ſpeakes both together, with<g ref="char:EOLhyphen"/>out any jarre betweene his tongue and his heart. His word is as good as his bond, and his conſcience the beſt debtor. His love (if poſſible) is without luſt or jealouſie, fixed on vertue, where it
+<pb facs="tcp:183716:76"/>ſtands firme as a rock. Truth hath bound up his Temples and diſcretion hath ſo knit the knot, that hee ſeldome makes his choyce ſo bad as to refuſe it, his word ſo large as to revoke it, or his time ſo ſhort as to piece it with de<g ref="char:EOLhyphen"/>layes at its period. Hee muſt needs bee very patient too, elſe his conſtancy could not continue, for impatiency breaks the fence of hope and ſtability, and lets in deſpaire and levity, a couple of wilde Cattel that may ſpoil a well growne field. The wife that poſſeſſeth him is happy, for there is ſure hold of his word. Shee findes him at his
+<pb facs="tcp:183716:77"/>appointed houre, which de<g ref="char:EOLhyphen"/>barres her of many feats, and ſhe ne're eats her meat cold, by ſtaying for his comming. Hee hath wealth enough, if he hath but this one Vertue, for all men believe him, and dare truſt him. Time and ex<g ref="char:EOLhyphen"/>perience have wrought him into every mans good opi<g ref="char:EOLhyphen"/>nion, and he ſtands unmoved in all his dealings. He hates a lyar as a thiefe, and is the greateſt frie<g ref="char:cmbAbbrStroke">̄</g>d where he once profeſſeth. The world is now growne ſo wilde, that few men are of his minde, and fewer women, the cauſe of ſo many cuckolds, perjur'd perſons, and dying lovers.</p>
+            </div>
+            <div n="39" type="character">
+               <pb facs="tcp:183716:77"/>
+               <head>
+                  <hi>39.</hi> A jealous man,</head>
+               <p>IS one ſo ſtrangely and ſtrongly poſſeſt with the yellow Jaundis, that he thinks all things of yellow colour, w<hi rend="sup">ch</hi> miſtake proceeds from the defect of the eye, not the object. He is one whoſe mind is in a continuall labyrinth, the further it goes, the fur<g ref="char:EOLhyphen"/>ther perplexed; the more it looks, the more tormented, and yet ſees nothing, but by imagination, which fooliſh fancy lyes ſo heavy in his forehead, that he takes it for a horne, though it bee but a pimple i'th'fleſh. Hee con<g ref="char:EOLhyphen"/>ſumes
+<pb facs="tcp:183716:78"/>himſelf and his wives reputation both together, by his too ofte<g ref="char:cmbAbbrStroke">̄</g> cauſeles ſuſpicio<g ref="char:cmbAbbrStroke">̄</g> and thinks a kiſſe (tho before him) a ſufficient cauſe of di<g ref="char:EOLhyphen"/>vorce. He is the ſcoffe of his neighbors, and the bait that cauſeth many to nibble in jeſt, that hee might vexe in good earneſt. He commonly dreames of his wife, though never ſo broad awake and would keepe her in a Cheſt but for feare of picking the locke, which ſets the greater edge to her appetite, and the greater madneſſe to his miſ<g ref="char:EOLhyphen"/>beliefe. His braines are in perpetuall agitation, and in his fantafie (being a kind of frenzy) fees ſo many looſe
+<pb facs="tcp:183716:78"/>paſſages in her, and laſcivious embraces by his ſuppoſed Corrivals, that hee's ſtarke mad at laſt with melancholy muſing. He lives in hell up<g ref="char:EOLhyphen"/>on earth, and is ſo beſotted, that hee cannot ſee when he is well. Hee is ſo farre gone in his diſeaſe, that all Phy<g ref="char:EOLhyphen"/>ſitians have given him over, knowing there is but one medicine (amongſt all) to cure him of this malady; which is, to ſee that really acted, which he ſo ſtedfaſtly ſuppoſed; which (no doubt) will ſhortly bee effected, to the full recovery of the cox<g ref="char:EOLhyphen"/>combe, and the manifeſtati<g ref="char:EOLhyphen"/>on of his error in s forehead, (an ornament fit for him.)</p>
+            </div>
+            <div n="40" type="character">
+               <pb facs="tcp:183716:79"/>
+               <head>
+                  <hi>40.</hi> A deſperate man,</head>
+               <p>IS one who hath forgot God, the world, the devils his Neighbor and himſelfe, and runs with precipitation into any danger. All his a<g ref="char:EOLhyphen"/>ctions are violent, and there<g ref="char:EOLhyphen"/>fore cannot bee permanent. He is a man of no faith at all, the reaſon he can apprehend no mercy from his Maker, but all Juſtice. He ſtill goes with <hi>Cain</hi>'s feare about him, whilſt hee himſelfe makes a trade of murthering; nor ſcarce toucht for't till his fa<g ref="char:EOLhyphen"/>tall, and then it fals ſo heavy, that he cannot beare it. He is
+<pb facs="tcp:183716:79"/>a man of no ſtaidneſſe, for he leaves a Rock to build upon the Sand. Some thinner ſculs thinke him valiant, becauſe he dares ſtab, or do any ſud<g ref="char:EOLhyphen"/>den miſchiefe: but the Schooles deny it, approving valour to bee mixt with diſ<g ref="char:EOLhyphen"/>cretion (which a deſparate man altogether wants) be<g ref="char:EOLhyphen"/>ſides, valour is vertue, ſpring<g ref="char:EOLhyphen"/>ing from fortitude, but raſhneſſe a vice ariſing from paſſion. He is one no way fit for any place, either in Church or Common-weale, for he that ca<g ref="char:cmbAbbrStroke">̄</g>not guide him<g ref="char:EOLhyphen"/>ſelfe, is moſt unfit to governe others. Hee is a man of ſmall or no hope, for hee is left to himſelfe, and then ſcarce a
+<pb facs="tcp:183716:80"/>man. Hee doth all things without premeditation, the reaſon why ſo many diſaſters attend the end of his actions, which he commonly feeles before he ſees. All that know him ſhun his ſociety, not ſo much for feare of him, as the law, knowing that his fury will force them to ſome fur<g ref="char:EOLhyphen"/>ther inconvenience. Hee is ſetled and veſted in this vil<g ref="char:EOLhyphen"/>lany, and takes a pride to be talked of for his treachery, and is ſtill glorifying in his owne ſhame. New-gate or a worſe place, wil ſhortly take poſſeſſion of him, if he mend not his manners, for a grace<g ref="char:EOLhyphen"/>leſſe man is good for nought but a Gallowes.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="41" type="character">
+               <pb facs="tcp:183716:80"/>
+               <head>A true friend,</head>
+               <p>IS a Fountaine that can<g ref="char:EOLhyphen"/>not be drawne dry, but alwayes affords ſome freſh and ſweet waters to him whoſe neceſſities and ex<g ref="char:EOLhyphen"/>tremities enforce him to fetch it. He is a mans ſe<g ref="char:EOLhyphen"/>cond ſelfe, as deare as a good wife, more deare than a brother, elſe the wiſeſt King had beene miſtaken: but our times juſtifie his Proverbe true, which hee knew before. He is <hi>Solamen in miſerijs,</hi> a Copartner in
+<pb facs="tcp:183716:81"/>diſtreſſes with you, and in<g ref="char:EOLhyphen"/>wardly (not fainedly) beare halfe the burthen. Love and you that 'tis a queſtion reciprocally anſwering each other in affection, and are equally ſenſible of each o<g ref="char:EOLhyphen"/>thers defects or diſturban<g ref="char:EOLhyphen"/>ces. Hee is no Meteor or Comet, no nine dayes won<g ref="char:EOLhyphen"/>der, or wandring Planet but a fixed ſtarre, by whoſe o<g ref="char:EOLhyphen"/>perative influence, his needy is nouriſhed. For he is not compos'd of words, but a<g ref="char:EOLhyphen"/>ctions, alwayes ready at a dead lift, to draw Dun out of the myre. Not onely a
+<pb facs="tcp:183716:81"/>bare Counſellor to good<g ref="char:EOLhyphen"/>neſſe, and ſo leave you without meanes of proſe<g ref="char:EOLhyphen"/>cution (the niggardly wiſe<g ref="char:EOLhyphen"/>dome of theſe times) but an aſſiſter in the way, and goes on the firſt mile with you for company, and lookes af<g ref="char:EOLhyphen"/>ter you in the reſt of your journey, if he doth not tra<g ref="char:EOLhyphen"/>vell throughout the ſame. Hee never aymes at any of his owne ends in do<g ref="char:EOLhyphen"/>ing courteſies, but doth them freely and quickly; not drownding his good deeds in the dull performance; for, <hi>Qui citò dat, bis dat;</hi> He that gives timely, gives twice. He's a certaine perpetuity,
+<pb facs="tcp:183716:82"/>that cannot bee loſt by non<g ref="char:EOLhyphen"/>payment of Rent, and ought to bee loved above fee-ſim<g ref="char:EOLhyphen"/>ple. He is the pillar of con<g ref="char:EOLhyphen"/>ſtancy, &amp; the very touchſtone of Truth. One that lookes upon men with the eye of Religion, and is not roun<g ref="char:EOLhyphen"/>ded in the eare with worldly applauſe for it. Hypocriſie and vain-glory are as farre from his hearths, as the contra<g ref="char:EOLhyphen"/>ry Poles are from each o<g ref="char:EOLhyphen"/>ther, for his right hand ſhall not know what his left hand doth. Hee is (in theſe iron dayes) <hi>Rara avis in terra;</hi> a blacke Swan, or a white Crow, as rare as the Phoenix, and ſuch a precious Jewell as
+<pb facs="tcp:183716:82"/>the Indies cannot afford his parallell. He is moſt hap<g ref="char:EOLhyphen"/>py that hath him, and I ad<g ref="char:EOLhyphen"/>viſe him to make much of him, for he hath great for<g ref="char:EOLhyphen"/>tune indeed, if he findes a ſe<g ref="char:EOLhyphen"/>cond.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
